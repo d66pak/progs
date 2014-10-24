@@ -1,0 +1,715 @@
+|qaatt_1317038185@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317119414|98.138.213.176|web181509.mail.ne1.yahoo.com|
+|qaatt_1317038185@demobroadband.com|WebmailPrefMigration|R|Cannot bind to Webmail Preferences directory entry.|1317114613|98.138.213.177|web181510.mail.ne1.yahoo.com|
+|att_adp1_11284536@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317181221|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_61725987@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317172874|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_87969557@demobroadband.com|WebmailPrefMigration|Y||1317170407|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_87969557@demobroadband.com|AddressBookMigration|Y||1317170407|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678951443820@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317165621|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_47757485@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317157859|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_54395830@demobroadband.com|WebmailPrefMigration|Y||1317157809|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_54395830@demobroadband.com|AddressBookMigration|Y||1317157808|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_11626302@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317157240|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_66770197@demobroadband.com|WebmailPrefMigration|Y||1317157208|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_66770197@demobroadband.com|AddressBookMigration|Y||1317157207|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_30729220@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317156625|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_50808908@demobroadband.com|WebmailPrefMigration|Y||1317156006|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_50808908@demobroadband.com|AddressBookMigration|Y||1317156006|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_sales11841492@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317155472|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_12697769@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317155425|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_12697769@demobroadband.com|WebmailPrefMigration|Y||1317151208|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_12697769@demobroadband.com|AddressBookMigration|Y||1317151207|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_40032618@demobroadband.com|WebmailPrefMigration|Y||1317150009|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_40032618@demobroadband.com|AddressBookMigration|Y||1317150008|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234581956374@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317147668|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_29786514@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317147637|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_52252529@demobroadband.com|WebmailPrefMigration|Y||1317147606|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_52252529@demobroadband.com|AddressBookMigration|Y||1317147606|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234521839456@demobroadband.com|WebmailPrefMigration|Y||1317143407|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234521839456@demobroadband.com|AddressBookMigration|Y||1317143407|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_52237423@demobroadband.com|WebmailPrefMigration|Y||1317142809|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_52237423@demobroadband.com|AddressBookMigration|Y||1317142808|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_01234567860945423@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317141023|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_shit96119847@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317137423|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678977734069@demobroadband.com|WebmailPrefMigration|Y||1317133208|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678977734069@demobroadband.com|AddressBookMigration|Y||1317133208|209.191.85.120|web37201.mail.mud.yahoo.com|
+|att_adp1_26755729@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317174069|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234529516752@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317174038|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_87969557@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317174022|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_35806281@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317173427|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_38884508@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317172824|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234529516752@demobroadband.com|WebmailPrefMigration|Y||1317171007|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234529516752@demobroadband.com|AddressBookMigration|Y||1317171007|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_28206368@demobroadband.com|WebmailPrefMigration|Y||1317170410|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_28206368@demobroadband.com|AddressBookMigration|Y||1317170410|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_45518844@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317164422|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_50808908@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317159719|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_sales47200615@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317159673|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_98908511@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317157227|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_shit46588080@demobroadband.com|WebmailPrefMigration|Y||1317151206|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_shit46588080@demobroadband.com|AddressBookMigration|Y||1317151205|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_57392918@demobroadband.com|WebmailPrefMigration|Y||1317150010|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_57392918@demobroadband.com|AddressBookMigration|Y||1317150010|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234521839456@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317147024|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_14944388@demobroadband.com|WebmailPrefMigration|Y||1317145840|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_14944388@demobroadband.com|AddressBookMigration|Y||1317145839|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_17335423@demobroadband.com|WebmailPrefMigration|Y||1317145823|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_17335423@demobroadband.com|AddressBookMigration|Y||1317145823|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_67788819@demobroadband.com|WebmailPrefMigration|Y||1317145807|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_67788819@demobroadband.com|AddressBookMigration|Y||1317145806|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_10618936@demobroadband.com|WebmailPrefMigration|Y||1317142809|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_10618936@demobroadband.com|AddressBookMigration|Y||1317142808|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_13030009@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317141023|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_57862742@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317139824|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_13030009@demobroadband.com|WebmailPrefMigration|Y||1317136823|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_13030009@demobroadband.com|AddressBookMigration|Y||1317136822|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_01234567860945423@demobroadband.com|WebmailPrefMigration|Y||1317136806|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_01234567860945423@demobroadband.com|AddressBookMigration|Y||1317136806|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_sales23110678@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317136286|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_67856475@demobroadband.com|WebmailPrefMigration|Y||1317136208|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_67856475@demobroadband.com|AddressBookMigration|Y||1317136207|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_47719404@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317132088|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_13949542@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317132073|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_93810268@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317132057|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_94675716@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317132042|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1015@frontiernet.net|FrontierMail|S||1317131747|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1042@frontiernet.net|FrontierMail|S||1317131689|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1015@frontiernet.net|FrontierMailPreferences|S||1317131682|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1041@frontiernet.net|FrontierMail|S||1317131672|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1019@frontiernet.net|FrontierMail|S||1317131652|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1041@frontiernet.net|FrontierMailPreferences|S||1317131614|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1019@frontiernet.net|FrontierMailPreferences|S||1317131579|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1042@frontiernet.net|FrontierMailPreferences|S||1317131532|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1042@frontiernet.net|FrontierMail|S||1317131522|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1010@frontiernet.net|FrontierMail|S||1317131497|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1034@frontiernet.net|FrontierMail|S||1317131480|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1042@frontiernet.net|FrontierMailPreferences|S||1317131443|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1010@frontiernet.net|FrontierMailPreferences|S||1317131426|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1034@frontiernet.net|FrontierMailPreferences|S||1317131354|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1069@frontiernet.net|FrontierMail|S||1317131352|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1004@frontiernet.net|FrontierMail|S||1317131332|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1069@frontiernet.net|FrontierMailPreferences|S||1317131286|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1004@frontiernet.net|FrontierMailPreferences|S||1317131268|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1046@frontiernet.net|FrontierMail|S||1317131268|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1081@frontiernet.net|FrontierMail|S||1317130975|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1046@frontiernet.net|FrontierMailPreferences|S||1317130953|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1098@frontiernet.net|FrontierMail|S||1317130919|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1081@frontiernet.net|FrontierMailPreferences|S||1317130904|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1013@frontiernet.net|FrontierMail|S||1317130901|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@newnorth.net|FrontierMail|S||1317130727|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1013@frontiernet.net|FrontierMailPreferences|S||1317130720|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1098@frontiernet.net|FrontierMailPreferences|S||1317130703|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@newnorth.net|FrontierMailPreferences|S||1317130656|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1043@frontiernet.net|FrontierMail|S||1317130654|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1019@frontiernet.net|FrontierMail|S||1317130639|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1043@frontiernet.net|FrontierMailPreferences|S||1317130593|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1072@frontiernet.net|FrontierMail|S||1317130583|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1019@frontiernet.net|FrontierMailPreferences|S||1317130576|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1022@frontiernet.net|FrontierMail|S||1317130525|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1072@frontiernet.net|FrontierMailPreferences|S||1317130518|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1040@frontiernet.net|FrontierMail|S||1317130496|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1022@frontiernet.net|FrontierMailPreferences|S||1317130467|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1027@frontiernet.net|FrontierMail|S||1317130457|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1040@frontiernet.net|FrontierMailPreferences|S||1317130450|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1027@frontiernet.net|FrontierMailPreferences|S||1317130384|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1014@frontiernet.net|FrontierMail|S||1317130381|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1055@frontiernet.net|FrontierMail|S||1317130373|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1032@frontiernet.net|FrontierMail|S||1317130321|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1055@frontiernet.net|FrontierMailPreferences|S||1317130313|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1014@frontiernet.net|FrontierMailPreferences|S||1317130296|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1018@frontiernet.net|FrontierMail|S||1317130272|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1048@frontiernet.net|FrontierMail|S||1317130260|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1032@frontiernet.net|FrontierMailPreferences|S||1317130232|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1048@frontiernet.net|FrontierMailPreferences|S||1317130215|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1018@frontiernet.net|FrontierMailPreferences|S||1317130192|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1024@frontiernet.net|FrontierMail|S||1317130093|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1008@frontiernet.net|FrontierMail|S||1317130083|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1088@frontiernet.net|FrontierMail|S||1317130071|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1024@frontiernet.net|FrontierMailPreferences|S||1317130064|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1008@frontiernet.net|FrontierMailPreferences|S||1317130028|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1012@frontiernet.net|FrontierMail|S||1317130017|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1021@frontiernet.net|FrontierMail|S||1317129961|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1012@frontiernet.net|FrontierMailPreferences|S||1317129950|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1088@frontiernet.net|FrontierMailPreferences|S||1317129922|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1021@frontiernet.net|FrontierMailPreferences|S||1317129895|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1025@frontiernet.net|FrontierMail|S||1317129770|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1086@frontiernet.net|FrontierMail|S||1317129725|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1025@frontiernet.net|FrontierMailPreferences|S||1317129718|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1016@frontiernet.net|FrontierMail|S||1317129651|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1086@frontiernet.net|FrontierMailPreferences|S||1317129632|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@frontier.com|FrontierMail|S||1317129621|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1016@frontiernet.net|FrontierMailPreferences|S||1317129592|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1001@frontiernet.net|FrontierMail|S||1317129581|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1012@frontiernet.net|FrontierMail|S||1317129551|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1001@frontiernet.net|FrontierMailPreferences|S||1317129545|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@frontier.com|FrontierMailPreferences|S||1317129517|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1012@frontiernet.net|FrontierMailPreferences|S||1317129468|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1049@frontiernet.net|FrontierMail|S||1317129449|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@frontiernet.net|FrontierMail|S||1317129406|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1061@frontiernet.net|FrontierMail|S||1317129400|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1049@frontiernet.net|FrontierMailPreferences|S||1317129393|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1030@frontiernet.net|FrontierMail|S||1317129367|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1030@frontiernet.net|FrontierMailPreferences|S||1317129331|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@frontiernet.net|FrontierMailPreferences|S||1317129296|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1002@frontiernet.net|FrontierMail|S||1317129268|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1061@frontiernet.net|FrontierMailPreferences|S||1317129243|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub5@frontiernet.net|FrontierMail|S||1317129241|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1002@frontiernet.net|FrontierMailPreferences|S||1317129216|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub5@frontiernet.net|FrontierMailPreferences|S||1317129186|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1023@frontiernet.net|FrontierMail|S||1317129168|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1046@frontiernet.net|FrontierMail|S||1317129147|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1062@frontiernet.net|FrontierMail|S||1317129140|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1046@frontiernet.net|FrontierMailPreferences|S||1317129101|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1023@frontiernet.net|FrontierMailPreferences|S||1317129083|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1062@frontiernet.net|FrontierMailPreferences|S||1317129066|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1084@frontiernet.net|FrontierMail|S||1317128965|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1052@frontiernet.net|FrontierMail|S||1317128953|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1037@frontiernet.net|FrontierMail|S||1317128929|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1084@frontiernet.net|FrontierMailPreferences|S||1317128906|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1052@frontiernet.net|FrontierMailPreferences|S||1317128889|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1026@frontiernet.net|FrontierMail|S||1317128856|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1045@frontiernet.net|FrontierMail|S||1317128849|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1045@frontiernet.net|FrontierMailPreferences|S||1317128788|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1037@frontiernet.net|FrontierMailPreferences|S||1317128771|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1026@frontiernet.net|FrontierMailPreferences|S||1317128754|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1043@frontiernet.net|FrontierMail|S||1317128698|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1004@frontiernet.net|FrontierMail|S||1317128695|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1054@frontiernet.net|FrontierMail|S||1317128671|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1004@frontiernet.net|FrontierMailPreferences|S||1317128661|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1043@frontiernet.net|FrontierMailPreferences|S||1317128644|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub3@frontiernet.net|FrontierMail|S||1317128586|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1054@frontiernet.net|FrontierMailPreferences|S||1317128570|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1066@frontiernet.net|FrontierMail|S||1317128568|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub3@frontiernet.net|FrontierMailPreferences|S||1317128553|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1026@frontiernet.net|FrontierMail|S||1317128508|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1066@frontiernet.net|FrontierMailPreferences|S||1317128478|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1030@frontiernet.net|FrontierMail|S||1317128478|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1026@frontiernet.net|FrontierMailPreferences|S||1317128461|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@epix.net|FrontierMail|S||1317128417|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_93810268@demobroadband.com|WebmailPrefMigration|Y||1317128411|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_93810268@demobroadband.com|AddressBookMigration|Y||1317128410|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1030@frontiernet.net|FrontierMailPreferences|S||1317128408|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1020@frontiernet.net|FrontierMail|S||1317128383|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@epix.net|FrontierMailPreferences|S||1317128366|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1022@frontiernet.net|FrontierMail|S||1317128356|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1021@frontiernet.net|FrontierMail|S||1317128337|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1020@frontiernet.net|FrontierMailPreferences|S||1317128311|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1022@frontiernet.net|FrontierMailPreferences|S||1317128293|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1021@frontiernet.net|FrontierMailPreferences|S||1317128276|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1015@frontiernet.net|FrontierMail|S||1317128215|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1028@frontiernet.net|FrontierMail|S||1317128213|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1082@frontiernet.net|FrontierMail|S||1317128206|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1015@frontiernet.net|FrontierMailPreferences|S||1317128152|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1028@frontiernet.net|FrontierMailPreferences|S||1317128135|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1082@frontiernet.net|FrontierMailPreferences|S||1317128117|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1053@frontiernet.net|FrontierMail|S||1317128046|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1059@frontiernet.net|FrontierMail|S||1317128019|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1083@frontiernet.net|FrontierMail|S||1317128003|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1053@frontiernet.net|FrontierMailPreferences|S||1317127990|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1059@frontiernet.net|FrontierMailPreferences|S||1317127953|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1083@frontiernet.net|FrontierMailPreferences|S||1317127917|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1044@frontiernet.net|FrontierMail|S||1317127895|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1036@frontiernet.net|FrontierMail|S||1317127844|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1044@frontiernet.net|FrontierMailPreferences|S||1317127833|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1029@frontiernet.net|FrontierMail|S||1317127831|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1036@frontiernet.net|FrontierMailPreferences|S||1317127771|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1029@frontiernet.net|FrontierMailPreferences|S||1317127754|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1034@frontiernet.net|FrontierMail|S||1317127744|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1017@frontiernet.net|FrontierMail|S||1317127714|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1034@frontiernet.net|FrontierMailPreferences|S||1317127707|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1007@frontiernet.net|FrontierMail|S||1317127706|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1025@frontiernet.net|FrontierMail|S||1317127661|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1017@frontiernet.net|FrontierMailPreferences|S||1317127655|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1007@frontiernet.net|FrontierMailPreferences|S||1317127625|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1025@frontiernet.net|FrontierMailPreferences|S||1317127585|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1023@frontiernet.net|FrontierMail|S||1317127567|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1076@frontiernet.net|FrontierMail|S||1317127515|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1023@frontiernet.net|FrontierMailPreferences|S||1317127509|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1009@frontiernet.net|FrontierMail|S||1317127498|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1038@frontiernet.net|FrontierMail|S||1317127460|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1076@frontiernet.net|FrontierMailPreferences|S||1317127453|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1009@frontiernet.net|FrontierMailPreferences|S||1317127429|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1038@frontiernet.net|FrontierMailPreferences|S||1317127405|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1003@frontiernet.net|FrontierMail|S||1317127348|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1087@frontiernet.net|FrontierMail|S||1317127280|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1003@frontiernet.net|FrontierMailPreferences|S||1317127269|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1085@frontiernet.net|FrontierMail|S||1317127259|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1001@frontiernet.net|FrontierMail|S||1317127207|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1085@frontiernet.net|FrontierMailPreferences|S||1317127185|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1087@frontiernet.net|FrontierMailPreferences|S||1317127168|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1047@frontiernet.net|FrontierMail|S||1317127135|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1020@frontiernet.net|FrontierMail|S||1317127104|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1047@frontiernet.net|FrontierMailPreferences|S||1317127097|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1039@frontiernet.net|FrontierMail|S||1317127059|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1039@frontiernet.net|FrontierMailPreferences|S||1317127015|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1020@frontiernet.net|FrontierMailPreferences|S||1317126999|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1045@frontiernet.net|FrontierMail|S||1317126830|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1096@frontiernet.net|FrontierMail|S||1317126823|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1045@frontiernet.net|FrontierMailPreferences|S||1317126735|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1096@frontiernet.net|FrontierMailPreferences|S||1317126717|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1011@frontiernet.net|FrontierMail|S||1317126675|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1079@frontiernet.net|FrontierMail|S||1317126646|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1001@frontiernet.net|FrontierMailPreferences|S||1317126627|209.191.85.121|web37202.mail.mud.yahoo.com|
+|qaatt_1317122565@demobroadband.com|WebmailPrefMigration|Y||1317126615|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1011@frontiernet.net|FrontierMailPreferences|S||1317126610|209.191.85.121|web37202.mail.mud.yahoo.com|
+|qaatt_1317122565@demobroadband.com|AddressBookMigration|Y||1317126609|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1010@frontiernet.net|FrontierMail|S||1317126547|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1079@frontiernet.net|FrontierMailPreferences|S||1317126533|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1036@frontiernet.net|FrontierMail|S||1317126532|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1010@frontiernet.net|FrontierMailPreferences|S||1317126475|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1064@frontiernet.net|FrontierMail|S||1317126472|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1064@frontiernet.net|FrontierMailPreferences|S||1317126416|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1036@frontiernet.net|FrontierMailPreferences|S||1317126399|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1037@frontiernet.net|FrontierMail|S||1317126396|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1006@frontiernet.net|FrontierMail|S||1317126357|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1037@frontiernet.net|FrontierMailPreferences|S||1317126350|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1003@frontiernet.net|FrontierMail|S||1317126348|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1006@frontiernet.net|FrontierMail|S||1317126320|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1006@frontiernet.net|FrontierMailPreferences|S||1317126290|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1003@frontiernet.net|FrontierMailPreferences|S||1317126272|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1006@frontiernet.net|FrontierMailPreferences|S||1317126256|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1007@frontiernet.net|FrontierMail|S||1317126176|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1005@frontiernet.net|FrontierMail|S||1317126169|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1027@frontiernet.net|FrontierMail|S||1317126129|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1005@frontiernet.net|FrontierMailPreferences|S||1317126122|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1000@frontiernet.net|FrontierMail|S||1317126091|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1007@frontiernet.net|FrontierMailPreferences|S||1317126064|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1000@frontiernet.net|FrontierMailPreferences|S||1317126016|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1027@frontiernet.net|FrontierMailPreferences|S||1317125960|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1070@frontiernet.net|FrontierMail|S||1317125933|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1048@frontiernet.net|FrontierMail|S||1317125921|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1013@frontiernet.net|FrontierMail|S||1317125892|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1048@frontiernet.net|FrontierMailPreferences|S||1317125864|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1070@frontiernet.net|FrontierMailPreferences|S||1317125832|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1013@frontiernet.net|FrontierMailPreferences|S||1317125807|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@myfrontiermail.com|FrontierMail|S||1317125789|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1011@frontiernet.net|FrontierMail|S||1317125774|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1008@frontiernet.net|FrontierMail|S||1317125762|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1011@frontiernet.net|FrontierMailPreferences|S||1317125731|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@myfrontiermail.com|FrontierMailPreferences|S||1317125714|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1049@frontiernet.net|FrontierMail|S||1317125685|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@newnorth.net|FrontierMail|S||1317125678|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1008@frontiernet.net|FrontierMailPreferences|S||1317125633|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1049@frontiernet.net|FrontierMailPreferences|S||1317125616|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@newnorth.net|FrontierMailPreferences|S||1317125600|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1033@frontiernet.net|FrontierMail|S||1317125506|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1057@frontiernet.net|FrontierMail|S||1317125506|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1047@frontiernet.net|FrontierMail|S||1317125498|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1047@frontiernet.net|FrontierMailPreferences|S||1317125427|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1057@frontiernet.net|FrontierMailPreferences|S||1317125410|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1033@frontiernet.net|FrontierMailPreferences|S||1317125389|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1017@frontiernet.net|FrontierMail|S||1317125357|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1031@frontiernet.net|FrontierMail|S||1317125335|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1077@frontiernet.net|FrontierMail|S||1317125327|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1017@frontiernet.net|FrontierMailPreferences|S||1317125320|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1077@frontiernet.net|FrontierMailPreferences|S||1317125208|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1068@frontiernet.net|FrontierMail|S||1317125206|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1031@frontiernet.net|FrontierMailPreferences|S||1317125190|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1058@frontiernet.net|FrontierMail|S||1317125093|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1068@frontiernet.net|FrontierMailPreferences|S||1317125086|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1063@frontiernet.net|FrontierMail|S||1317125058|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1058@frontiernet.net|FrontierMailPreferences|S||1317125007|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1075@frontiernet.net|FrontierMail|S||1317124997|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1063@frontiernet.net|FrontierMailPreferences|S||1317124990|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1051@frontiernet.net|FrontierMail|S||1317124936|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1075@frontiernet.net|FrontierMailPreferences|S||1317124925|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1044@frontiernet.net|FrontierMail|S||1317124923|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@gvni.com|FrontierMail|S||1317124895|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1051@frontiernet.net|FrontierMailPreferences|S||1317124875|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1044@frontiernet.net|FrontierMailPreferences|S||1317124858|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@gvni.com|FrontierMailPreferences|S||1317124800|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub4@frontiernet.net|FrontierMail|S||1317124797|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1038@frontiernet.net|FrontierMail|S||1317124789|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub4@frontiernet.net|FrontierMailPreferences|S||1317124756|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1040@frontiernet.net|FrontierMail|S||1317124745|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1038@frontiernet.net|FrontierMailPreferences|S||1317124700|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1040@frontiernet.net|FrontierMailPreferences|S||1317124683|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1039@frontiernet.net|FrontierMail|S||1317124673|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1035@frontiernet.net|FrontierMail|S||1317124637|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1028@frontiernet.net|FrontierMail|S||1317124630|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1039@frontiernet.net|FrontierMailPreferences|S||1317124591|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1035@frontiernet.net|FrontierMailPreferences|S||1317124574|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1028@frontiernet.net|FrontierMailPreferences|S||1317124557|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1014@frontiernet.net|FrontierMail|S||1317124246|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1056@frontiernet.net|FrontierMail|S||1317124224|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1095@frontiernet.net|FrontierMail|S||1317124039|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1014@frontiernet.net|FrontierMailPreferences|S||1317123989|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1056@frontiernet.net|FrontierMailPreferences|S||1317123926|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1095@frontiernet.net|FrontierMailPreferences|S||1317123890|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1009@frontiernet.net|FrontierMail|S||1317123855|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1089@frontiernet.net|FrontierMail|S||1317123760|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1009@frontiernet.net|FrontierMailPreferences|S||1317123753|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1080@frontiernet.net|FrontierMail|S||1317123719|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1089@frontiernet.net|FrontierMailPreferences|S||1317123658|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1080@frontiernet.net|FrontierMailPreferences|S||1317123641|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1050@frontiernet.net|FrontierMail|S||1317123631|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@citlink.net|FrontierMail|S||1317123594|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1050@frontiernet.net|FrontierMailPreferences|S||1317123587|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1005@frontiernet.net|FrontierMail|S||1317123585|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1005@frontiernet.net|FrontierMailPreferences|S||1317123535|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1031@frontiernet.net|FrontierMail|S||1317123533|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@citlink.net|FrontierMailPreferences|S||1317123499|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1033@frontiernet.net|FrontierMail|S||1317123489|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1071@frontiernet.net|FrontierMail|S||1317123461|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1033@frontiernet.net|FrontierMailPreferences|S||1317123432|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1031@frontiernet.net|FrontierMailPreferences|S||1317123400|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1071@frontiernet.net|FrontierMailPreferences|S||1317123354|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1065@frontiernet.net|FrontierMail|S||1317123273|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1090@frontiernet.net|FrontierMail|S||1317123260|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1035@frontiernet.net|FrontierMail|S||1317123241|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1065@frontiernet.net|FrontierMailPreferences|S||1317123197|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1090@frontiernet.net|FrontierMailPreferences|S||1317123180|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1035@frontiernet.net|FrontierMailPreferences|S||1317123113|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1074@frontiernet.net|FrontierMail|S||1317123111|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1041@frontiernet.net|FrontierMail|S||1317123103|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1032@frontiernet.net|FrontierMail|S||1317123086|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1041@frontiernet.net|FrontierMailPreferences|S||1317123053|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1074@frontiernet.net|FrontierMailPreferences|S||1317123036|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1032@frontiernet.net|FrontierMailPreferences|S||1317123019|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1029@frontiernet.net|FrontierMail|S||1317122949|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1000@frontiernet.net|FrontierMail|S||1317122946|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1073@frontiernet.net|FrontierMail|S||1317122939|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1029@frontiernet.net|FrontierMailPreferences|S||1317122896|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1000@frontiernet.net|FrontierMailPreferences|S||1317122878|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1073@frontiernet.net|FrontierMailPreferences|S||1317122861|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1060@frontiernet.net|FrontierMail|S||1317122803|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1024@frontiernet.net|FrontierMail|S||1317122793|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1067@frontiernet.net|FrontierMail|S||1317122786|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1024@frontiernet.net|FrontierMailPreferences|S||1317122738|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1067@frontiernet.net|FrontierMailPreferences|S||1317122722|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1060@frontiernet.net|FrontierMailPreferences|S||1317122705|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1045@frontiernet.net|FrontierAll|F||1317117380|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1045@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317117380|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1042@frontiernet.net|FrontierAll|F||1317117076|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1042@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317117075|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1001@frontiernet.net|FrontierAll|F||1317116297|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1001@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116297|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1063@frontiernet.net|FrontierAll|F||1317116107|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1063@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116107|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1044@frontiernet.net|FrontierAll|F||1317116012|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1044@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116011|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1051@frontiernet.net|FrontierAll|F||1317115895|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1051@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317115895|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1036@frontiernet.net|FrontierAll|F||1317114931|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1036@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317114931|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1076@frontiernet.net|FrontierAll|F||1317114841|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1076@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317114841|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1042@frontiernet.net|FrontierAll|F||1317114420|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1042@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317114420|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1083@frontiernet.net|FrontierAll|F||1317114140|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1083@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317114140|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1095@frontiernet.net|FrontierMail|S||1317112476|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1036@frontiernet.net|FrontierMail|S||1317112386|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1052@frontiernet.net|FrontierMail|S||1317112345|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1095@frontiernet.net|FrontierMailPreferences|S||1317112333|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1036@frontiernet.net|FrontierMailPreferences|S||1317112296|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1052@frontiernet.net|FrontierMailPreferences|S||1317112271|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1001@frontiernet.net|FrontierMail|S||1317112181|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1035@frontiernet.net|FrontierMail|S||1317112140|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1068@frontiernet.net|FrontierMail|S||1317112107|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1035@frontiernet.net|FrontierMailPreferences|S||1317112016|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1068@frontiernet.net|FrontierMailPreferences|S||1317111990|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1085@frontiernet.net|FrontierMail|S||1317111906|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1043@frontiernet.net|FrontierMail|S||1317111872|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1085@frontiernet.net|FrontierMailPreferences|S||1317111842|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1043@frontiernet.net|FrontierMailPreferences|S||1317111822|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1026@frontiernet.net|FrontierMail|S||1317111771|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1060@frontiernet.net|FrontierMail|S||1317111734|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1026@frontiernet.net|FrontierMailPreferences|S||1317111711|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1049@frontiernet.net|FrontierMail|S||1317111667|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1060@frontiernet.net|FrontierMailPreferences|S||1317111659|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@epix.net|FrontierMail|S||1317111610|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1049@frontiernet.net|FrontierMailPreferences|S||1317111597|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1001@frontiernet.net|FrontierMailPreferences|S||1317111563|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_migdom@epix.net|FrontierMailPreferences|S||1317111529|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1044@frontiernet.net|FrontierMail|S||1317111506|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1010@frontiernet.net|FrontierMail|S||1317111488|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1059@frontiernet.net|FrontierMail|S||1317111455|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1044@frontiernet.net|FrontierMailPreferences|S||1317111430|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1010@frontiernet.net|FrontierMailPreferences|S||1317111408|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1059@frontiernet.net|FrontierMailPreferences|S||1317111387|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1008@frontiernet.net|FrontierMail|S||1317111294|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1021@frontiernet.net|FrontierMail|S||1317111219|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1086@frontiernet.net|FrontierMail|S||1317111201|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1021@frontiernet.net|FrontierMailPreferences|S||1317111116|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1008@frontiernet.net|FrontierMailPreferences|S||1317111098|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1086@frontiernet.net|FrontierMailPreferences|S||1317111079|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1033@frontiernet.net|FrontierMail|S||1317111022|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1032@frontiernet.net|FrontierMail|S||1317111012|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1027@frontiernet.net|FrontierMail|S||1317110997|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1033@frontiernet.net|FrontierMailPreferences|S||1317110990|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1027@frontiernet.net|FrontierMailPreferences|S||1317110930|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1038@frontiernet.net|FrontierMail|S||1317110927|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1032@frontiernet.net|FrontierMailPreferences|S||1317110912|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1038@frontiernet.net|FrontierMailPreferences|S||1317110866|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1003@frontiernet.net|FrontierMail|S||1317110863|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1021@frontiernet.net|FrontierMail|S||1317110863|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1021@frontiernet.net|FrontierMailPreferences|S||1317110814|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_i1045@frontiernet.net|FrontierMail|S||1317110811|209.191.85.121|web37202.mail.mud.yahoo.com|
+|yqa_ftr_1003@frontiernet.net|FrontierMailPreferences|S||1317110794|209.191.85.121|web37202.mail.mud.yahoo.com|
+|att_adp1_35545579@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317172827|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_60340094@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317172813|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_35806281@demobroadband.com|WebmailPrefMigration|Y||1317170406|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_35806281@demobroadband.com|AddressBookMigration|Y||1317170406|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_38884508@demobroadband.com|WebmailPrefMigration|Y||1317169807|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_38884508@demobroadband.com|AddressBookMigration|Y||1317169806|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678951443820@demobroadband.com|WebmailPrefMigration|Y||1317161407|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678951443820@demobroadband.com|AddressBookMigration|Y||1317161406|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_45518844@demobroadband.com|WebmailPrefMigration|Y||1317160807|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_45518844@demobroadband.com|AddressBookMigration|Y||1317160807|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_90650596@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317159018|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_shit46588080@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317157226|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_27539071@demobroadband.com|WebmailPrefMigration|Y||1317157207|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_27539071@demobroadband.com|AddressBookMigration|Y||1317157207|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_83912107@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317153626|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_90650596@demobroadband.com|WebmailPrefMigration|Y||1317152406|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_90650596@demobroadband.com|AddressBookMigration|Y||1317152406|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_sales11841492@demobroadband.com|WebmailPrefMigration|Y||1317151211|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_sales11841492@demobroadband.com|AddressBookMigration|Y||1317151210|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_83912107@demobroadband.com|WebmailPrefMigration|Y||1317150610|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_83912107@demobroadband.com|AddressBookMigration|Y||1317150609|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678997999903@demobroadband.com|WebmailPrefMigration|Y||1317150007|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678997999903@demobroadband.com|AddressBookMigration|Y||1317150007|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_10618936@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317147008|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_29786514@demobroadband.com|WebmailPrefMigration|Y||1317143408|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_29786514@demobroadband.com|AddressBookMigration|Y||1317143408|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_98553470@demobroadband.com|WebmailPrefMigration|Y||1317142808|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_98553470@demobroadband.com|AddressBookMigration|Y||1317142807|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_73394882@demobroadband.com|WebmailPrefMigration|Y||1317142208|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_73394882@demobroadband.com|AddressBookMigration|Y||1317142207|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_67856475@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317139810|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_sales53758440@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317137409|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_41996947@demobroadband.com|WebmailPrefMigration|Y||1317133206|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_41996947@demobroadband.com|AddressBookMigration|Y||1317133206|209.191.85.122|web37203.mail.mud.yahoo.com|
+|qaatt_1317122565@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317130219|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_47719404@demobroadband.com|WebmailPrefMigration|Y||1317128408|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_47719404@demobroadband.com|AddressBookMigration|Y||1317128408|209.191.85.122|web37203.mail.mud.yahoo.com|
+|att_adp1_23434815@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317178822|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_26755729@demobroadband.com|WebmailPrefMigration|Y||1317171006|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_26755729@demobroadband.com|AddressBookMigration|Y||1317171005|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_26061374@demobroadband.com|WebmailPrefMigration|Y||1317170408|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_26061374@demobroadband.com|AddressBookMigration|Y||1317170408|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_012345678901259211222@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317164422|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_54395830@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317162022|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_sales20033035@demobroadband.com|WebmailPrefMigration|Y||1317161407|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_sales20033035@demobroadband.com|AddressBookMigration|Y||1317161406|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_73317392@demobroadband.com|WebmailPrefMigration|Y||1317157207|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_73317392@demobroadband.com|AddressBookMigration|Y||1317157207|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_30729220@demobroadband.com|WebmailPrefMigration|Y||1317152407|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_30729220@demobroadband.com|AddressBookMigration|Y||1317152406|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_shit13427856@demobroadband.com|WebmailPrefMigration|Y||1317150007|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_shit13427856@demobroadband.com|AddressBookMigration|Y||1317150006|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_42114955@demobroadband.com|WebmailPrefMigration|Y||1317142807|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_42114955@demobroadband.com|AddressBookMigration|Y||1317142807|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_13635647@demobroadband.com|WebmailPrefMigration|Y||1317142207|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_13635647@demobroadband.com|AddressBookMigration|Y||1317142206|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_sales23110678@demobroadband.com|WebmailPrefMigration|Y||1317132607|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_sales23110678@demobroadband.com|AddressBookMigration|Y||1317132605|209.191.85.123|web37204.mail.mud.yahoo.com|
+|qaatt_1317122582@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317130239|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_94675716@demobroadband.com|WebmailPrefMigration|Y||1317128408|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_94675716@demobroadband.com|AddressBookMigration|Y||1317128407|209.191.85.123|web37204.mail.mud.yahoo.com|
+|qaatt_1317122582@demobroadband.com|WebmailPrefMigration|Y||1317126610|209.191.85.123|web37204.mail.mud.yahoo.com|
+|qaatt_1317122582@demobroadband.com|AddressBookMigration|Y||1317126609|209.191.85.123|web37204.mail.mud.yahoo.com|
+|att_adp1_65758632@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317177605|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234586551532@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317174008|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_26061374@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317174008|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_11284536@demobroadband.com|WebmailPrefMigration|Y||1317173408|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_11284536@demobroadband.com|AddressBookMigration|Y||1317173407|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234586551532@demobroadband.com|WebmailPrefMigration|Y||1317171007|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234586551532@demobroadband.com|AddressBookMigration|Y||1317171006|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_65758632@demobroadband.com|WebmailPrefMigration|Y||1317170418|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_65758632@demobroadband.com|AddressBookMigration|Y||1317170418|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_25181578@demobroadband.com|WebmailPrefMigration|Y||1317170417|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_25181578@demobroadband.com|AddressBookMigration|Y||1317170417|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_77314882@demobroadband.com|WebmailPrefMigration|Y||1317170416|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_77314882@demobroadband.com|AddressBookMigration|Y||1317170416|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_41409894@demobroadband.com|WebmailPrefMigration|Y||1317170415|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_41409894@demobroadband.com|AddressBookMigration|Y||1317170414|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_61725987@demobroadband.com|WebmailPrefMigration|Y||1317170413|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_61725987@demobroadband.com|AddressBookMigration|Y||1317170412|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_61660305@demobroadband.com|WebmailPrefMigration|Y||1317170411|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_61660305@demobroadband.com|AddressBookMigration|Y||1317170411|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_35545579@demobroadband.com|WebmailPrefMigration|Y||1317169809|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_35545579@demobroadband.com|AddressBookMigration|Y||1317169809|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_21295507@demobroadband.com|WebmailPrefMigration|Y||1317169207|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_21295507@demobroadband.com|AddressBookMigration|Y||1317169206|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_27651110@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317164410|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_66770197@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317160813|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_27539071@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317160810|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_01234567842336168@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317160810|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_012345678901259211222@demobroadband.com|WebmailPrefMigration|Y||1317157807|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_012345678901259211222@demobroadband.com|AddressBookMigration|Y||1317157807|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_27651110@demobroadband.com|WebmailPrefMigration|Y||1317157211|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_27651110@demobroadband.com|AddressBookMigration|Y||1317157211|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_01234567842336168@demobroadband.com|WebmailPrefMigration|Y||1317157207|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_01234567842336168@demobroadband.com|AddressBookMigration|Y||1317157207|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678982933591@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317156008|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_shit13427856@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317153613|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_57392918@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317153613|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_40032618@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317153612|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_sales47200615@demobroadband.com|WebmailPrefMigration|Y||1317153609|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_sales47200615@demobroadband.com|AddressBookMigration|Y||1317153608|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678997999903@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317153014|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_74258278@demobroadband.com|WebmailPrefMigration|Y||1317152407|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_74258278@demobroadband.com|AddressBookMigration|Y||1317152406|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_52252529@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317151809|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_47757485@demobroadband.com|WebmailPrefMigration|Y||1317150610|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_47757485@demobroadband.com|AddressBookMigration|Y||1317150610|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_17335423@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317150014|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_98553470@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317150013|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_14944388@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317150013|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_52237423@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317147011|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_79321158@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317147010|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_45484156@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317147010|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_62547560@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317147010|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_42114955@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317147006|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_94163273@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317147006|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_33053619@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317145814|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_13635647@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317145814|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_28013040@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317145813|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_73394882@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317145810|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_19335508@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317144612|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_79321158@demobroadband.com|WebmailPrefMigration|Y||1317142815|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_79321158@demobroadband.com|AddressBookMigration|Y||1317142814|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_45484156@demobroadband.com|WebmailPrefMigration|Y||1317142814|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_45484156@demobroadband.com|AddressBookMigration|Y||1317142813|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_62547560@demobroadband.com|WebmailPrefMigration|Y||1317142813|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_62547560@demobroadband.com|AddressBookMigration|Y||1317142813|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_33053619@demobroadband.com|WebmailPrefMigration|Y||1317142812|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_33053619@demobroadband.com|AddressBookMigration|Y||1317142812|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_54873393@demobroadband.com|WebmailPrefMigration|Y||1317142810|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_54873393@demobroadband.com|AddressBookMigration|Y||1317142810|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_28013040@demobroadband.com|WebmailPrefMigration|Y||1317142206|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_28013040@demobroadband.com|AddressBookMigration|Y||1317142205|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_99224749@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317136211|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_89028648@demobroadband.com|MailMigration|J|Unable to connect to Partner IMAP server.|1317136211|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_sales53758440@demobroadband.com|WebmailPrefMigration|Y||1317133215|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_sales53758440@demobroadband.com|AddressBookMigration|Y||1317133214|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_012345678901293251476@demobroadband.com|WebmailPrefMigration|Y||1317133214|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_012345678901293251476@demobroadband.com|AddressBookMigration|Y||1317133213|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_99224749@demobroadband.com|WebmailPrefMigration|Y||1317133210|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_99224749@demobroadband.com|AddressBookMigration|Y||1317133209|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_89028648@demobroadband.com|WebmailPrefMigration|Y||1317133209|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_89028648@demobroadband.com|AddressBookMigration|Y||1317133208|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_57862742@demobroadband.com|WebmailPrefMigration|Y||1317133207|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_57862742@demobroadband.com|AddressBookMigration|Y||1317133206|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_56702378@demobroadband.com|WebmailPrefMigration|Y||1317128410|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_56702378@demobroadband.com|AddressBookMigration|Y||1317128409|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_36793800@demobroadband.com|WebmailPrefMigration|Y||1317128409|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_36793800@demobroadband.com|AddressBookMigration|Y||1317128409|209.191.85.125|web37206.mail.mud.yahoo.com|
+|att_adp1_21295507@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317175237|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_23434815@demobroadband.com|WebmailPrefMigration|Y||1317174006|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_23434815@demobroadband.com|AddressBookMigration|Y||1317174006|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_25181578@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317173532|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_77314882@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317173517|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_41409894@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317173486|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_20739653@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317173471|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_61660305@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317173455|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_28206368@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317173440|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_20739653@demobroadband.com|WebmailPrefMigration|Y||1317170413|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_20739653@demobroadband.com|AddressBookMigration|Y||1317170413|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_60340094@demobroadband.com|WebmailPrefMigration|Y||1317169808|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_60340094@demobroadband.com|AddressBookMigration|Y||1317169808|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_sales20033035@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317165621|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_shit72688713@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317162021|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_73317392@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317160841|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_74258278@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317157891|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_shit72688713@demobroadband.com|WebmailPrefMigration|Y||1317157806|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_shit72688713@demobroadband.com|AddressBookMigration|Y||1317157806|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_98908511@demobroadband.com|WebmailPrefMigration|Y||1317153624|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_98908511@demobroadband.com|AddressBookMigration|Y||1317153623|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_11626302@demobroadband.com|WebmailPrefMigration|Y||1317153607|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_11626302@demobroadband.com|AddressBookMigration|Y||1317153607|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678982933591@demobroadband.com|WebmailPrefMigration|Y||1317151206|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678982933591@demobroadband.com|AddressBookMigration|Y||1317151205|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_67788819@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317150028|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_54873393@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317147021|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234581956374@demobroadband.com|WebmailPrefMigration|Y||1317143407|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_123456789a123456789b123456789c123456789d1234581956374@demobroadband.com|AddressBookMigration|Y||1317143406|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_94163273@demobroadband.com|WebmailPrefMigration|Y||1317142807|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_94163273@demobroadband.com|AddressBookMigration|Y||1317142806|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_19335508@demobroadband.com|WebmailPrefMigration|Y||1317141007|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_19335508@demobroadband.com|AddressBookMigration|Y||1317141006|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_012345678901293251476@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317136885|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_0123456789012345678901234567890123456789012345678977734069@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317136869|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_41996947@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317136838|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_36793800@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317134458|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_shit96119847@demobroadband.com|WebmailPrefMigration|Y||1317133207|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_shit96119847@demobroadband.com|AddressBookMigration|Y||1317133206|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_56702378@demobroadband.com|MailMigration|J|Max retry limit reached and still Login fails|1317132024|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_13949542@demobroadband.com|WebmailPrefMigration|Y||1317128407|209.191.85.126|web37207.mail.mud.yahoo.com|
+|att_adp1_13949542@demobroadband.com|AddressBookMigration|Y||1317128406|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1069@frontiernet.net|FrontierAll|F||1317117549|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1069@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317117549|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1037@frontiernet.net|FrontierAll|F||1317117426|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1037@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317117426|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1019@frontiernet.net|FrontierAll|F||1317116828|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1019@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116828|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1046@frontiernet.net|FrontierAll|F||1317116733|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1046@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116732|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1004@frontiernet.net|FrontierAll|F||1317116713|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1004@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116713|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1015@frontiernet.net|FrontierAll|F||1317116656|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1015@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116656|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1086@frontiernet.net|FrontierAll|F||1317116543|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1086@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116543|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1087@frontiernet.net|FrontierAll|F||1317116536|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1087@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116536|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1074@frontiernet.net|FrontierAll|F||1317116173|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1074@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317116173|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1098@frontiernet.net|FrontierAll|F||1317115763|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1098@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317115763|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1038@frontiernet.net|FrontierAll|F||1317115715|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1038@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317115715|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1028@frontiernet.net|FrontierAll|F||1317115583|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1028@frontiernet.net|FrontierContact|F|Maximum tries reached for FrontierContact Module|1317115583|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub3@frontiernet.net|FrontierMail|S||1317112315|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_new1_sub3@frontiernet.net|FrontierMailPreferences|S||1317112303|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1055@frontiernet.net|FrontierMail|S||1317112132|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1098@frontiernet.net|FrontierMail|S||1317112093|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1055@frontiernet.net|FrontierMailPreferences|S||1317112086|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1028@frontiernet.net|FrontierMail|S||1317111926|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1053@frontiernet.net|FrontierMail|S||1317111911|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1098@frontiernet.net|FrontierMailPreferences|S||1317111872|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1028@frontiernet.net|FrontierMailPreferences|S||1317111855|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1053@frontiernet.net|FrontierMailPreferences|S||1317111838|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1028@frontiernet.net|FrontierMail|S||1317111779|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1048@frontiernet.net|FrontierMail|S||1317111760|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1081@frontiernet.net|FrontierMail|S||1317111739|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1028@frontiernet.net|FrontierMailPreferences|S||1317111732|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1048@frontiernet.net|FrontierMailPreferences|S||1317111713|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1081@frontiernet.net|FrontierMailPreferences|S||1317111623|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1076@frontiernet.net|FrontierMail|S||1317111612|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1067@frontiernet.net|FrontierMail|S||1317111612|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1010@frontiernet.net|FrontierMail|S||1317111588|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1067@frontiernet.net|FrontierMailPreferences|S||1317111559|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1076@frontiernet.net|FrontierMailPreferences|S||1317111530|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1010@frontiernet.net|FrontierMailPreferences|S||1317111503|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1024@frontiernet.net|FrontierMail|S||1317111469|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1063@frontiernet.net|FrontierMail|S||1317111443|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1024@frontiernet.net|FrontierMailPreferences|S||1317111437|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1016@frontiernet.net|FrontierMail|S||1317111426|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1012@frontiernet.net|FrontierMail|S||1317111396|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1063@frontiernet.net|FrontierMailPreferences|S||1317111366|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1016@frontiernet.net|FrontierMailPreferences|S||1317111349|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1012@frontiernet.net|FrontierMailPreferences|S||1317111331|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1020@frontiernet.net|FrontierMail|S||1317111280|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1004@frontiernet.net|FrontierMail|S||1317111224|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1020@frontiernet.net|FrontierMailPreferences|S||1317111202|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1009@frontiernet.net|FrontierMail|S||1317111200|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1004@frontiernet.net|FrontierMailPreferences|S||1317111185|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1009@frontiernet.net|FrontierMailPreferences|S||1317111085|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1080@frontiernet.net|FrontierMail|S||1317111083|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1033@frontiernet.net|FrontierMail|S||1317111073|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1080@frontiernet.net|FrontierMailPreferences|S||1317111020|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1046@frontiernet.net|FrontierMail|S||1317111018|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1033@frontiernet.net|FrontierMailPreferences|S||1317110939|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1042@frontiernet.net|FrontierMail|S||1317110929|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1046@frontiernet.net|FrontierMailPreferences|S||1317110922|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_migdom@frontier.com|FrontierMail|S||1317110884|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1039@frontiernet.net|FrontierMail|S||1317110878|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1039@frontiernet.net|FrontierMailPreferences|S||1317110856|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1042@frontiernet.net|FrontierMailPreferences|S||1317110804|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1015@frontiernet.net|FrontierMail|S||1317110792|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_migdom@frontier.com|FrontierMailPreferences|S||1317110786|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_1005@frontiernet.net|FrontierMail|S||1317110746|209.191.85.126|web37207.mail.mud.yahoo.com|
+|yqa_ftr_i1015@frontiernet.net|FrontierMailPreferences|S||1317110739|209.191.85.126|web37207.mail.mud.yahoo.com|

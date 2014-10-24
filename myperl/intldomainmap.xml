@@ -1,0 +1,1152 @@
+
+<!DOCTYPE perldata SYSTEM "./intldomainmap.dtd">
+<perldata>
+ <hashref memory_address="0x8ecc1f4">
+  <item key="GLOBAL">
+   <hashref memory_address="0x8e3525c">
+    <item key="farms">1200[1%]:1201[1%]:1202[1%]:1206[1%]:1425[1%]:1424[1%]:1423[2%]:1412[2%]:1621[2%]:1623[2%]:1613[2%]:1622[2%]:1615[2%]:1624[2%]:1618[2%]:1616[2%]:1617[2%]:1620[2%]:1619[2%]:1626[2%]:1645[2%]:1636[2%]:1629[2%]:1604[2%]:1610[2%]:1625[2%]:1606[2%]:1628[2%]:1603[2%]:1608[2%]:1609[2%]:1229[2%]:1254[2%]:1607[2%]:1612[2%]:1635[2%]:1627[2%]:1605[2%]:1646[2%]:1634[2%]:1631[2%]:1261[2%]:1262[2%]:1630[2%]:1639[2%]:1638[2%]:1602[2%]:1640[2%]:1601[2%]:1205[2%]:1649[2%]:1614[2%]:1650[2%]</item>
+    <item key="subject">Yahoo!</item>
+    <item key="welcomefile">welcomeRefresh.html</item>
+   </hashref>
+  </item>
+  <item key="aa">
+   <hashref memory_address="0x8eb1c78">
+    <item key="domain">yahoo.com</item>
+    <item key="free">
+     <hashref memory_address="0x8eb1c30">
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8eb1c54">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ar">
+   <hashref memory_address="0x8eb1cfc">
+    <item key="domain">yahoo.com.ar</item>
+    <item key="free">
+     <hashref memory_address="0x8eb1cb4">
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8eb1cd8">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="at">
+   <hashref memory_address="0x8e9eaf4">
+    <item key="domain">yahoo.at</item>
+    <item key="free">
+     <hashref memory_address="0x8e9eab8">
+      <item key="de-AT">
+       <hashref memory_address="0x8e9ea94">
+        <item key="subject">Willkommen bei Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Willkommen bei Yahoo! Mail</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="au">
+   <hashref memory_address="0x8e9eb6c">
+    <item key="domain">yahoo.com.au</item>
+    <item key="free">
+     <hashref memory_address="0x8e9eb24">
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8e9eb48">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="b5">
+   <hashref memory_address="0x8e9ebf0">
+    <item key="ambiguous domain">1</item>
+    <item key="domain">yahoo.com</item>
+    <item key="free">
+     <hashref memory_address="0x8e9eba8">
+      <item key="subject">Åwªï¨Ï¥Î Yahoo! ©_¼¯¹q¤l«H½c</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8e9ebcc">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="be">
+   <hashref memory_address="0x8e9ecc8">
+    <item key="domain">yahoo.be</item>
+    <item key="free">
+     <hashref memory_address="0x8e9ec80">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="fr-BE">
+       <hashref memory_address="0x8e9ec38">
+        <item key="subject">Bienvenue dans Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="nl-BE">
+       <hashref memory_address="0x8e9ec5c">
+        <item key="subject">Welkom bij Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="subject">Welkom bij Yahoo! Mail</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="bg">
+   <hashref memory_address="0x8e9ed58">
+    <item key="domain">yahoo.bg</item>
+    <item key="free">
+     <hashref memory_address="0x8e9ed1c">
+      <item key="bg-BG">
+       <hashref memory_address="0x8e9ecf8">
+        <item key="subject">=?iso-8859-5?Q?=B4=DE=D1=E0=D5_=D4=DE=E8=DB=D8_=D2_Yahoo!_Mail?=</item>
+       </hashref>
+      </item>
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">=?iso-8859-5?Q?=B4=DE=D1=E0=D5_=D4=DE=E8=DB=D8_=D2_Yahoo!_Mail?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="br">
+   <hashref memory_address="0x8e9edd0">
+    <item key="domain">yahoo.com.br</item>
+    <item key="free">
+     <hashref memory_address="0x8e9ed88">
+      <item key="subject">Bem-vindo ao Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8e9edac">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ca">
+   <hashref memory_address="0x8eab38c">
+    <item key="domain">yahoo.ca</item>
+    <item key="free">
+     <hashref memory_address="0x8eab308">
+      <item key="en-CA">
+       <hashref memory_address="0x8e9ee0c">
+        <item key="subject">Welcome to Yahoo!</item>
+       </hashref>
+      </item>
+      <item key="fr-CA">
+       <hashref memory_address="0x8e9ee30">
+        <item key="subject">=?iso-8859-1?Q?Bienvenue_=E0_Yahoo!_Courriel?=</item>
+       </hashref>
+      </item>
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="rogers-acs">
+     <hashref memory_address="0x8eab344">
+      <item key="farms">1200[1%]:1201[1%]:1202[1%]:1206[1%]:1425[1%]:1424[1%]:1423[2%]:1412[2%]:1621[2%]:1623[2%]:1613[2%]:1622[2%]:1615[2%]:1624[2%]:1618[2%]:1616[2%]:1617[2%]:1620[2%]:1619[2%]:1626[2%]:1645[2%]:1636[2%]:1629[2%]:1604[2%]:1610[2%]:1625[2%]:1606[2%]:1628[2%]:1603[2%]:1608[2%]:1609[2%]:1229[2%]:1254[2%]:1607[2%]:1612[2%]:1635[2%]:1627[2%]:1605[2%]:1646[2%]:1634[2%]:1631[2%]:1261[2%]:1262[2%]:1630[2%]:1639[2%]:1638[2%]:1602[2%]:1640[2%]:1601[2%]:1205[2%]:1649[2%]:1614[2%]:1650[2%]</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8eab368">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="cf">
+   <hashref memory_address="0x8eab5b4">
+    <item key="ambiguous domain">1</item>
+    <item key="domain">yahoo.ca</item>
+    <item key="free">
+     <hashref memory_address="0x8eab548">
+      <item key="subject">Bienvenue sur Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="rogers-acs">
+     <hashref memory_address="0x8eab56c">
+      <item key="farms">1200[1%]:1201[1%]:1202[1%]:1206[1%]:1425[1%]:1424[1%]:1423[2%]:1412[2%]:1621[2%]:1623[2%]:1613[2%]:1622[2%]:1615[2%]:1624[2%]:1618[2%]:1616[2%]:1617[2%]:1620[2%]:1619[2%]:1626[2%]:1645[2%]:1636[2%]:1629[2%]:1604[2%]:1610[2%]:1625[2%]:1606[2%]:1628[2%]:1603[2%]:1608[2%]:1609[2%]:1229[2%]:1254[2%]:1607[2%]:1612[2%]:1635[2%]:1627[2%]:1605[2%]:1646[2%]:1634[2%]:1631[2%]:1261[2%]:1262[2%]:1630[2%]:1639[2%]:1638[2%]:1602[2%]:1640[2%]:1601[2%]:1205[2%]:1649[2%]:1614[2%]:1650[2%]</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8eab590">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ch">
+   <hashref memory_address="0x8eab488">
+    <item key="domain">yahoo.ch</item>
+    <item key="free">
+     <hashref memory_address="0x8eab440">
+      <item key="de-CH">
+       <hashref memory_address="0x8eab3d4">
+        <item key="subject">Willkommen bei Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="fr-CH">
+       <hashref memory_address="0x8eab41c">
+        <item key="subject">Bienvenue dans Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="it-CH">
+       <hashref memory_address="0x8eab3f8">
+        <item key="subject">Benvenuto su Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="subject">Willkommen bei Yahoo! Mail</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="cl">
+   <hashref memory_address="0x8ec3654">
+    <item key="domain">yahoo.cl</item>
+    <item key="free">
+     <hashref memory_address="0x8ec360c">
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec3630">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="cn">
+   <hashref memory_address="0x8eab6d4">
+    <item key="alibaba">
+     <hashref memory_address="0x8eab68c">
+      <item key="farms">920[100%]</item>
+     </hashref>
+    </item>
+    <item key="cn_partner">
+     <hashref memory_address="0x8eab668">
+      <item key="farms">156[100%]</item>
+     </hashref>
+    </item>
+    <item key="domain">yahoo.com.cn</item>
+    <item key="free">
+     <hashref memory_address="0x8eab608">
+      <item key="farms">153[10%]:157[10%]:158[10%]:159[10%]:921[30%]:922[30%]</item>
+      <item key="subject">=?utf-8?B?5qyi6L+O5oKo5rOo5YaM6ZuF6JmO6YKu566x77yM5oKo5bqU6K+l5LqG6Kej5Lul5LiL5L+h5oGv?=</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8eab6b0">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+    <item key="ym">
+     <hashref memory_address="0x8eab638">
+      <item key="farms">153[10%]:157[10%]:158[10%]:159[10%]:921[30%]:922[30%]</item>
+      <item key="subject">»¶Ó­¹âÁÙ Yahoo!</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="co">
+   <hashref memory_address="0x8ec35d0">
+    <item key="domain">yahoo.com.co</item>
+    <item key="free">
+     <hashref memory_address="0x8ec3588">
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec35ac">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="cz">
+   <hashref memory_address="0x8eab518">
+    <item key="domain">yahoo.cz</item>
+    <item key="free">
+     <hashref memory_address="0x8eab4dc">
+      <item key="cs-CZ">
+       <hashref memory_address="0x8eab4b8">
+        <item key="subject">=?iso-8859-1?Q?V=EDtejte_v_Yahoo!_Mail?=</item>
+       </hashref>
+      </item>
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">=?iso-8859-1?Q?V=EDtejte_v_Yahoo!_Mail?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="de">
+   <hashref memory_address="0x8ec34bc">
+    <item key="domain">yahoo.de</item>
+    <item key="free">
+     <hashref memory_address="0x8ec3468">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Willkommen bei Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec3498">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="dk">
+   <hashref memory_address="0x8ec354c">
+    <item key="domain">yahoo.dk</item>
+    <item key="free">
+     <hashref memory_address="0x8ec34f8">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Velkommen til Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec3528">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="e1">
+   <hashref memory_address="0x8ec37e0">
+    <item key="ambiguous domain">1</item>
+    <item key="domain">yahoo.com</item>
+    <item key="free">
+     <hashref memory_address="0x8ec3798">
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="quota">D2</item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec37bc">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ee">
+   <hashref memory_address="0x8ec4550">
+    <item key="domain">yahoo.ee</item>
+    <item key="free">
+     <hashref memory_address="0x8ec4514">
+      <item key="et-EE">
+       <hashref memory_address="0x8ec44f0">
+        <item key="subject">Tere tulemast Yahoo! Maili</item>
+       </hashref>
+      </item>
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Tere tulemast Yahoo! Maili</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="es">
+   <hashref memory_address="0x8ec45d4">
+    <item key="domain">yahoo.es</item>
+    <item key="free">
+     <hashref memory_address="0x8ec4580">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec45b0">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="fi">
+   <hashref memory_address="0x8ec4658">
+    <item key="domain">yahoo.fi</item>
+    <item key="free">
+     <hashref memory_address="0x8ec4610">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec4634">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="fr">
+   <hashref memory_address="0x8ec46e8">
+    <item key="domain">yahoo.fr</item>
+    <item key="free">
+     <hashref memory_address="0x8ec4694">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Bienvenue sur Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec46c4">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="gb">
+   <hashref memory_address="0x8eb1bf4">
+    <item key="domain">yahoo.com.gb</item>
+    <item key="free">
+     <hashref memory_address="0x8eb1bac">
+      <item key="subject">»¶Ó­¹âÁÙ Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8eb1bd0">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="gr">
+   <hashref memory_address="0x8ec4778">
+    <item key="domain">yahoo.gr</item>
+    <item key="free">
+     <hashref memory_address="0x8ec4724">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Êáëùóïñßóáôå óôï Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec4754">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="h1">
+   <hashref memory_address="0x8ec47fc">
+    <item key="ambiguous domain">1</item>
+    <item key="domain">yahoo.com.hk</item>
+    <item key="free">
+     <hashref memory_address="0x8ec47b4">
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec47d8">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="hk">
+   <hashref memory_address="0x8ec53e4">
+    <item key="domain">yahoo.com.hk</item>
+    <item key="free">
+     <hashref memory_address="0x8ec4844">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="subject">=?iso-2022-jp?Q?=1B=24B=5DD7=5E=3BHMQ=1B=28B_Yahoo!_Mail?=</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec4874">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="hr">
+   <hashref memory_address="0x8ec5480">
+    <item key="domain">yahoo.hr</item>
+    <item key="free">
+     <hashref memory_address="0x8ec5444">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="hr-HR">
+       <hashref memory_address="0x8ec5420">
+        <item key="subject">=?iso-8859-2?Q?Dobrodo=B9li_na_uslugu_Yahoo!_Po=B9ta?=</item>
+       </hashref>
+      </item>
+      <item key="subject">=?iso-8859-2?Q?Dobrodo=B9li_na_uslugu_Yahoo!_Po=B9ta?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="hu">
+   <hashref memory_address="0x8ec5510">
+    <item key="domain">yahoo.hu</item>
+    <item key="free">
+     <hashref memory_address="0x8ec54d4">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="hu-HU">
+       <hashref memory_address="0x8ec54b0">
+        <item key="subject">=?iso-8859-1?Q?=DCdv=F6zli_a_Yahoo!_Mail?=</item>
+       </hashref>
+      </item>
+      <item key="subject">=?iso-8859-1?Q?=DCdv=F6zli_a_Yahoo!_Mail?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="id">
+   <hashref memory_address="0x8ec9b30">
+    <item key="domain">yahoo.co.id</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9adc">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="subject">Selamat datang di Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec9b0c">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ie">
+   <hashref memory_address="0x8ec5594">
+    <item key="domain">yahoo.ie</item>
+    <item key="free">
+     <hashref memory_address="0x8ec5540">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec5570">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="il">
+   <hashref memory_address="0x8ec6728">
+    <item key="domain">yahoo.co.il</item>
+    <item key="free">
+     <hashref memory_address="0x8ec66f8">
+      <item key="he-IL">
+       <hashref memory_address="0x8ec66d4">
+        <item key="subject">=?windows-1255?Q?=E1=F8=E5=EA_=E4=E1=E0_=E0=EC_Yahoo!_Mail=FE?=</item>
+       </hashref>
+      </item>
+      <item key="subject">=?windows-1255?Q?=E1=F8=E5=EA_=E4=E1=E0_=E0=EC_Yahoo!_Mail=FE?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="in">
+   <hashref memory_address="0x8ec6608">
+    <item key="domain">yahoo.in</item>
+    <item key="free">
+     <hashref memory_address="0x8ec5714">
+      <item key="bn-IN">
+       <hashref memory_address="0x8ec56a8">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=A6=AE=E0=A7=87=E0=A6=B2=E0=A7=87_=E0=A6=B8=E0=A7=8D?= =?utf-8?Q?=E0=A6=AC=E0=A6=BE=E0=A6=97=E0=A6=A4=E0=A6=AE?=</item>
+       </hashref>
+      </item>
+      <item key="en-In">
+       <hashref memory_address="0x8ec56f0">
+        <item key="subject">Welcome to Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="gu-IN">
+       <hashref memory_address="0x8ec5684">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=AA=AE=E0=AB=87=E0=AA=B2_=E0=AA=AA=E0=AA=B0_=E0=AA=86?= =?utf-8?Q?=E0=AA=AA=E0=AA=A8=E0=AB=81=E0=AA=82_=E0=AA=B8=E0=AB=8D?= =?utf-8?Q?=E0=AA=B5=E0=AA=BE=E0=AA=97=E0=AA=A4_=E0=AA=9B=E0=AB=87?=</item>
+       </hashref>
+      </item>
+      <item key="hi-IN">
+       <hashref memory_address="0x8ec55d0">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=A4=AE=E0=A5=87=E0=A4=B2_=E0=A4=AE=E0=A5=87=E0=A4=82_?= =?utf-8?Q?=E0=A4=B8=E0=A5=8D=E0=A4=B5=E0=A4=BE=E0=A4=97=E0=A4=A4_?= =?utf-8?Q?=E0=A4=B9=E0=A5=88?=</item>
+       </hashref>
+      </item>
+      <item key="kn-IN">
+       <hashref memory_address="0x8ec5618">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=B2=AE=E0=B3=87=E0=B2=B2=E0=B3=8D_=E0=B2=97=E0=B3=86_?= =?utf-8?Q?=E0=B2=B8=E0=B3=81=E0=B2=B8=E0=B3=8D=E0=B2=B5=E0=B2=BE=E0=B2=97?= =?utf-8?Q?=E0=B2=A4?=</item>
+       </hashref>
+      </item>
+      <item key="ml-IN">
+       <hashref memory_address="0x8ec5660">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=B4=AE=E0=B5=86=E0=B4=AF=E0=B4=BF=E0=B4=B2=E0=B4=BF?= =?utf-8?Q?=E0=B4=B2=E0=B5=87=E0=B4=95=E0=B5=8D=E0=B4=95=E0=B5=8D_?= =?utf-8?Q?=E0=B4=B8=E0=B5=8D=E0=B4=B5=E0=B4=BE=E0=B4=97=E0=B4=A4=E0=B4=82?=</item>
+       </hashref>
+      </item>
+      <item key="mr-IN">
+       <hashref memory_address="0x8ec56cc">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=A4=AE=E0=A5=87=E0=A4=B2_=E0=A4=AE=E0=A4=A7=E0=A5=8D?= =?utf-8?Q?=E0=A4=AF=E0=A5=87_=E0=A4=86=E0=A4=AA=E0=A4=B2=E0=A5=87_?= =?utf-8?Q?=E0=A4=B8=E0=A5=8D=E0=A4=B5=E0=A4=BE=E0=A4=97=E0=A4=A4_?= =?utf-8?Q?=E0=A4=86=E0=A4=B9=E0=A5=87?=</item>
+       </hashref>
+      </item>
+      <item key="subject">Welcome to Yahoo!</item>
+      <item key="ta-IN">
+       <hashref memory_address="0x8ec55f4">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=AE=85=E0=AE=9E=E0=AF=8D=E0=AE=9A=E0=AE=B2=E0=AF=81?= =?utf-8?Q?=E0=AE=95=E0=AF=8D=E0=AE=95=E0=AF=81_=E0=AE=B5=E0=AE=B0?= =?utf-8?Q?=E0=AF=81=E0=AE=95?=</item>
+       </hashref>
+      </item>
+      <item key="te-IN">
+       <hashref memory_address="0x8ec563c">
+        <item key="subject">=?utf-8?Q?Yahoo!_=E0=B0=AE=E0=B1=86=E0=B0=AF=E0=B0=BF=E0=B0=B2=E0=B1=8D?= =?utf-8?Q?=E2=80=8C=E0=B0=95=E0=B1=81_=E0=B0=B8=E0=B1=8D=E0=B0=B5?= =?utf-8?Q?=E0=B0=BE=E0=B0=97=E0=B0=A4=E0=B0=82?=</item>
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec57b0">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="it">
+   <hashref memory_address="0x8ec6698">
+    <item key="domain">yahoo.it</item>
+    <item key="free">
+     <hashref memory_address="0x8ec6644">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Benvenuto su Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec6674">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="k1">
+   <hashref memory_address="0x8ec67a0">
+    <item key="domain">yahoo.com.tw</item>
+    <item key="free">
+     <hashref memory_address="0x8ec6758">
+      <item key="subject">æ­¡è¿Žå…‰è‡¨ Yahoo! å¥‡æ‘©</item>
+     </hashref>
+    </item>
+    <item key="quota">K2</item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec677c">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="kr">
+   <hashref memory_address="0x8ec683c">
+    <item key="attach">KR</item>
+    <item key="domain">yahoo.co.kr</item>
+    <item key="free">
+     <hashref memory_address="0x8ec67e8">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="subject">¾ßÈÄ! ¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù</item>
+     </hashref>
+    </item>
+    <item key="msgsize">KR</item>
+    <item key="quota">KR1</item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec6818">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="lt">
+   <hashref memory_address="0x8ec68fc">
+    <item key="domain">yahoo.lt</item>
+    <item key="free">
+     <hashref memory_address="0x8ec68c0">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="lt-LT">
+       <hashref memory_address="0x8ec689c">
+        <item key="subject">=?windows-1257?Q?Sveiki_atvyk=E6_=E1_=84Yahoo!_Mail=93?=</item>
+       </hashref>
+      </item>
+      <item key="subject">=?windows-1257?Q?Sveiki_atvyk=E6_=E1_=84Yahoo!_Mail=93?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="lv">
+   <hashref memory_address="0x8ec698c">
+    <item key="domain">yahoo.lv</item>
+    <item key="free">
+     <hashref memory_address="0x8ec6950">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="lv-LV">
+       <hashref memory_address="0x8ec692c">
+        <item key="subject">=?iso-8859-4?Q?Esiet_sveicin=E0ti_Yahoo!_Mail!?=</item>
+       </hashref>
+      </item>
+      <item key="subject">=?iso-8859-4?Q?Esiet_sveicin=E0ti_Yahoo!_Mail!?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="mx">
+   <hashref memory_address="0x8ec7a78">
+    <item key="domain">yahoo.com.mx</item>
+    <item key="free">
+     <hashref memory_address="0x8ec69bc">
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec7a54">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="my">
+   <hashref memory_address="0x8ec9c80">
+    <item key="domain">yahoo.com.my</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9c20">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="ms-MY">
+       <hashref memory_address="0x8ec9bfc">
+        <item key="subject">Selamat Datang ke Yahoo! Mel</item>
+       </hashref>
+      </item>
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec9c5c">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="nl">
+   <hashref memory_address="0x8ecb274">
+    <item key="domain">yahoo.nl</item>
+    <item key="free">
+     <hashref memory_address="0x8ecb220">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Welkom bij Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ecb250">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="no">
+   <hashref memory_address="0x8ec7b08">
+    <item key="domain">yahoo.no</item>
+    <item key="free">
+     <hashref memory_address="0x8ec7ab4">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Velkommen til Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec7ae4">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="nz">
+   <hashref memory_address="0x8ec7b8c">
+    <item key="domain">yahoo.co.nz</item>
+    <item key="free">
+     <hashref memory_address="0x8ec7b44">
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec7b68">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="pe">
+   <hashref memory_address="0x8ec36d8">
+    <item key="domain">yahoo.com.pe</item>
+    <item key="free">
+     <hashref memory_address="0x8ec3690">
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec36b4">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ph">
+   <hashref memory_address="0x8ecaf74">
+    <item key="domain">yahoo.com.ph</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9d70">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="fil-PH">
+       <hashref memory_address="0x8ec9d4c">
+        <item key="subject">Maligayang Pagdating sa Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec9dac">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="pl">
+   <hashref memory_address="0x8ec9a10">
+    <item key="domain">yahoo.pl</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9148">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Witamy w Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec99ec">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ro">
+   <hashref memory_address="0x8ec7c1c">
+    <item key="domain">yahoo.ro</item>
+    <item key="free">
+     <hashref memory_address="0x8ec7bc8">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Bine aÅ£i venit la Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec7bf8">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="rs">
+   <hashref memory_address="0x8ec7d54">
+    <item key="domain">yahoo.rs</item>
+    <item key="free">
+     <hashref memory_address="0x8ec7d18">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="sr-Cyrl-RS">
+       <hashref memory_address="0x8ec7cf4">
+        <item key="subject">=?iso-8859-5?Q?=B4=DE=D1=E0=DE_=D4=DE=E8=DB=D8_=E3_Yahoo!_Mail?=</item>
+       </hashref>
+      </item>
+      <item key="subject">=?iso-8859-5?Q?=B4=DE=D1=E0=DE_=D4=DE=E8=DB=D8_=E3_Yahoo!_Mail?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ru">
+   <hashref memory_address="0x8ec7cac">
+    <item key="domain">yahoo.ru</item>
+    <item key="free">
+     <hashref memory_address="0x8ec7c58">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">äÏÂÒÏ ÐÏÖÁÌÏ×ÁÔØ × Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="quota">D3</item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec7c88">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="se">
+   <hashref memory_address="0x8ec7dd8">
+    <item key="domain">yahoo.se</item>
+    <item key="free">
+     <hashref memory_address="0x8ec7d84">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Välkommen till Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec7db4">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="sg">
+   <hashref memory_address="0x8ec8dac">
+    <item key="domain">yahoo.com.sg</item>
+    <item key="free">
+     <hashref memory_address="0x8ec7e14">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec8d88">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="si">
+   <hashref memory_address="0x8ec8e48">
+    <item key="domain">yahoo.si</item>
+    <item key="free">
+     <hashref memory_address="0x8ec8e0c">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="sl-SI">
+       <hashref memory_address="0x8ec8de8">
+        <item key="subject">=?iso-8859-2?Q?Dobrodo=B9li_v_Yahoo!_Mail?=</item>
+       </hashref>
+      </item>
+      <item key="subject">=?iso-8859-2?Q?Dobrodo=B9li_v_Yahoo!_Mail?=</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="sk">
+   <hashref memory_address="0x8ec8ed8">
+    <item key="domain">yahoo.sk</item>
+    <item key="free">
+     <hashref memory_address="0x8ec8e9c">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="sk-SK">
+       <hashref memory_address="0x8ec8e78">
+        <item key="subject">Vitajte v Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="subject">Vitajte v Yahoo! Mail</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="th">
+   <hashref memory_address="0x8ec9bc0">
+    <item key="domain">yahoo.co.th</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9b6c">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="subject">à¸‚à¸­à¸•à¹‰à¸­à¸™à¸£à¸±à¸šà¸ªà¸¹à¹ˆ Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec9b9c">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="tr">
+   <hashref memory_address="0x8ec9aa0">
+    <item key="domain">yahoo.com.tr</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9a4c">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Yahoo!&apos;ya HoÅŸ Geldiniz</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec9a7c">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="tw">
+   <hashref memory_address="0x8ec8f5c">
+    <item key="domain">yahoo.com.tw</item>
+    <item key="free">
+     <hashref memory_address="0x8ec8f08">
+      <item key="farms">751[50%]:752[50%]</item>
+      <item key="subject">Åwªï¨Ï¥Î Yahoo! ©_¼¯¹q¤l«H½c</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec8f38">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ua">
+   <hashref memory_address="0x8ecb010">
+    <item key="domain">yahoo.com.ua</item>
+    <item key="free">
+     <hashref memory_address="0x8ecafd4">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">=?iso-8859-5?Q?=B2=F6=E2=D0=F4=DC=DE_=D2=D0=E1_=E3_Yahoo!_Mail?=</item>
+      <item key="uk-UA">
+       <hashref memory_address="0x8ecafb0">
+        <item key="subject">=?iso-8859-5?Q?=B2=F6=E2=D0=F4=DC=DE_=D2=D0=E1_=E3_Yahoo!_Mail?=</item>
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="uk">
+   <hashref memory_address="0x8ec9010">
+    <item key="bt-1">
+     <hashref memory_address="0x8ec8fc8">
+      <item key="farms">874[15%]:877[17%]:878[17%]:879[17%]:1860[17%]:1861[17%]</item>
+     </hashref>
+    </item>
+    <item key="domain">yahoo.co.uk</item>
+    <item key="free">
+     <hashref memory_address="0x8ec8f98">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec8fec">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="us">
+   <hashref memory_address="0x8ec90f4">
+    <item key="domain">yahoo.com</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9058">
+      <item key="subject">Welcome to Yahoo!</item>
+      <item key="welcomefile13to17">welcomeMail13to17.html</item>
+      <item key="welcomefile18andup">welcomeMail18andUp.html</item>
+      <item key="welcomefileunder13">welcomeMailUnder13.html</item>
+     </hashref>
+    </item>
+    <item key="quota">D2</item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec90a0">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+    <item key="vz-acs">
+     <hashref memory_address="0x8ec90c4">
+      <item key="farms">1203[50%]:1213[50%]</item>
+      <item key="welcomefile">welcome3.html</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ve">
+   <hashref memory_address="0x8ec375c">
+    <item key="domain">yahoo.com.ve</item>
+    <item key="free">
+     <hashref memory_address="0x8ec3714">
+      <item key="subject">Bienvenido a Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec3738">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="vn">
+   <hashref memory_address="0x8ec9d10">
+    <item key="domain">yahoo.com.vn</item>
+    <item key="free">
+     <hashref memory_address="0x8ec9cbc">
+      <item key="farms">1900[3%]:1901[3%]:1902[3%]:1903[3%]:1904[3%]:1905[3%]:1906[3%]:1907[3%]:1908[3%]:1909[3%]:1922[3%]:1923[3%]:1924[3%]:1925[3%]:1926[3%]:1927[3%]:1928[3%]:1929[3%]:1930[3%]:1931[3%]:1932[3%]:1933[3%]:1934[3%]:1935[3%]:1936[3%]:1937[3%]:1938[4%]:1939[3%]:1940[3%]:1946[3%]:1947[3%]:1949[3%]:1950[3%]</item>
+      <item key="subject">ChÃ o má»«ng báº¡n Ä‘áº¿n vá»›i Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ec9cec">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="xa">
+   <hashref memory_address="0x8ecb0c4">
+    <item key="domain">yahoo.com</item>
+    <item key="free">
+     <hashref memory_address="0x8ecb064">
+      <item key="ar-JO">
+       <hashref memory_address="0x8ecb040">
+        <item key="subject">=?utf-8?Q?=D9=85=D8=B1=D8=AD=D8=A8=D9=8B=D8=A7_=D8=A8=D9=83_=D9=81=D9=8A_?= =?utf-8?Q?=D8=A8=D8=B1=D9=8A=D8=AF=20=59=61=68=6F=6F=21=E2=80=8E?=</item>
+       </hashref>
+      </item>
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">=?utf-8?Q?=D9=85=D8=B1=D8=AD=D8=A8=D9=8B=D8=A7_=D8=A8=D9=83_=D9=81=D9=8A_?= =?utf-8?Q?=D8=A8=D8=B1=D9=8A=D8=AF=20=59=61=68=6F=6F=21=E2=80=8E?=</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ecb0a0">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="xe">
+   <hashref memory_address="0x8ecb1e4">
+    <item key="domain">yahoo.com</item>
+    <item key="free">
+     <hashref memory_address="0x8ecb190">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Welcome to Yahoo!</item>
+     </hashref>
+    </item>
+    <item key="sbc">
+     <hashref memory_address="0x8ecb1c0">
+      <item key="farms">1809[8%]:1810[8%]:1811[8%]:1812[8%]:1813[7%]:1814[7%]:1815[7%]:1816[7%]:1817[7%]:1848[7%]:1849[7%]:1850[7%]:1853[6%]:1854[6%]</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="xp">
+   <hashref memory_address="0x8ecb160">
+    <item key="domain">yahoo.pt</item>
+    <item key="free">
+     <hashref memory_address="0x8ecb124">
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="pt-PT">
+       <hashref memory_address="0x8ecb100">
+        <item key="subject">Bem-vindo ao Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="subject">Bem-vindo ao Yahoo! Mail</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="za">
+   <hashref memory_address="0x8ecb310">
+    <item key="domain">yahoo.co.za</item>
+    <item key="free">
+     <hashref memory_address="0x8ecb2d4">
+      <item key="en-za">
+       <hashref memory_address="0x8ecb2b0">
+        <item key="subject">Welcome to Yahoo! Mail</item>
+       </hashref>
+      </item>
+      <item key="farms">287[15%]:1332[5%]:1712[5%]:1713[5%]:1714[5%]:1715[5%]:1717[6%]:1718[6%]:1719[6%]:1720[6%]:1721[6%]:1722[6%]:1723[6%]:1724[6%]:1725[6%]:1726[6%]</item>
+      <item key="subject">Welcome to Yahoo! Mail</item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+ </hashref>
+</perldata>

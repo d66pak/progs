@@ -1,0 +1,1 @@
+/usr/bin/g++   -m32 -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/boost_threads.dir/findsum.cpp.o CMakeFiles/boost_threads.dir/main.cpp.o  -o boost_threads  -L/opt/local/lib  /opt/local/lib/libboost_system-mt.a /opt/local/lib/libboost_thread-mt.a -Wl,-rpath,/opt/local/lib 

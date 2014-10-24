@@ -1,0 +1,766 @@
+
+<!DOCTYPE perldata SYSTEM "./partnermap.dtd">
+<perldata>
+ <hashref memory_address="0x8e3998c">
+  <item key="blu">
+   <hashref memory_address="0x8e52834">
+    <item key="path">/partners/blu/</item>
+    <item key="subject">Welcome to Yahoo! Mail and Bluelight.com</item>
+   </hashref>
+  </item>
+  <item key="blue1">
+   <hashref memory_address="0x8e52864">
+    <item key="path">/partners/blue1/</item>
+    <item key="subject">Bienvenido a Correo Yahoo! y Bluelight.com</item>
+   </hashref>
+  </item>
+  <item key="bt-1">
+   <hashref memory_address="0x8e75910">
+    <item key="TIP-header">66.218.69.16</item>
+    <item key="bypass-name-check">1</item>
+    <item key="domain">
+     <arrayref memory_address="0x8e713e4">
+      <item key="0">yahoo.com</item>
+      <item key="1">yoyo.com</item>
+      <item key="2">demobroadband.com</item>
+      <item key="3">btinternet.com</item>
+      <item key="4">btopenworld.com</item>
+     </arrayref>
+    </item>
+    <item key="imap-server">
+     <hashref memory_address="0x8e71438">
+      <item key="btinternet.com">194.73.73.163</item>
+      <item key="btopenworld.com">194.73.73.163</item>
+      <item key="yahoo.com">martini.corp</item>
+     </hashref>
+    </item>
+    <item key="omitwelcomemessage">1</item>
+    <item key="path">/partners/bt/uk/</item>
+    <item key="pop-server">
+     <hashref memory_address="0x8e71474">
+     </hashref>
+    </item>
+    <item key="quota">S2</item>
+    <item key="sender">BT Yahoo! Member Services</item>
+    <item key="sender2">BT Yahoo! Member Services</item>
+    <item key="subject">Welcome to BT Yahoo!</item>
+    <item key="subject-tx-confirm">Email Transfer Confirmation</item>
+    <item key="subject-tx-error">Email Transfer Error</item>
+    <item key="subject-tx-start">Confirmation and Information</item>
+    <item key="subject2">Welcome to BT Yahoo!</item>
+    <item key="type">
+     <hashref memory_address="0x8e75850">
+      <item key="temp">
+       <hashref memory_address="0x8e7148c">
+        <item key="account">temp</item>
+        <item key="quota">D</item>
+        <item key="tier">temp</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:pri:core:a">
+       <hashref memory_address="0x8e714c8">
+        <item key="account">Master</item>
+        <item key="path">/partners/bt/uk/tierA/</item>
+        <item key="quota">D</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Mail account</item>
+        <item key="tier">A</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:pri:core:b">
+       <hashref memory_address="0x8e71534">
+        <item key="account">Master</item>
+        <item key="path">/partners/bt/uk/tierB/</item>
+        <item key="quota">P2</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Mail account</item>
+        <item key="tier">B</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:pri:core:c">
+       <hashref memory_address="0x8e71618">
+        <item key="account">Master</item>
+        <item key="path">/partners/bt/uk/tierC/</item>
+        <item key="pop">P</item>
+        <item key="quota">P2</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Internet mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Internet account</item>
+        <item key="tier">C</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:pri:core:d">
+       <hashref memory_address="0x8e7353c">
+        <item key="account">Master</item>
+        <item key="path">/partners/bt/uk/tierD/</item>
+        <item key="pop">P</item>
+        <item key="quota">P2</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Internet mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Internet account</item>
+        <item key="tier">D</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:pri:core:e">
+       <hashref memory_address="0x8e7362c">
+        <item key="account">Master</item>
+        <item key="path">/partners/bt/uk/tierE/</item>
+        <item key="pop">P</item>
+        <item key="quota">P2</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Broadband mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Broadband account</item>
+        <item key="tier">E</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:pri:core:g">
+       <hashref memory_address="0x8e7371c">
+        <item key="account">Master</item>
+        <item key="path">/partners/bt/uk/tierG/</item>
+        <item key="quota">P2</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Mail account</item>
+        <item key="tier">G</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:pri:core:h">
+       <hashref memory_address="0x8e73800">
+        <item key="account">Master</item>
+        <item key="path">/partners/bt/uk/tierH/</item>
+        <item key="quota">P2</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Mail account</item>
+        <item key="tier">H</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:sub:core:b">
+       <hashref memory_address="0x8e715a0">
+        <item key="account">Sub</item>
+        <item key="path">/partners/bt/uk/tierB/</item>
+        <item key="pop">P</item>
+        <item key="quota">P0</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Mail account</item>
+        <item key="tier">B</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:sub:core:c">
+       <hashref memory_address="0x8e734c4">
+        <item key="account">Sub</item>
+        <item key="path">/partners/bt/uk/tierC/</item>
+        <item key="pop">P</item>
+        <item key="quota">P0</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Internet mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Internet account</item>
+        <item key="tier">C</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:sub:core:d">
+       <hashref memory_address="0x8e735b4">
+        <item key="account">Sub</item>
+        <item key="path">/partners/bt/uk/tierD/</item>
+        <item key="pop">P</item>
+        <item key="quota">P0</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Internet mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Internet account</item>
+        <item key="tier">D</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:sub:core:e">
+       <hashref memory_address="0x8e736a4">
+        <item key="account">Sub</item>
+        <item key="path">/partners/bt/uk/tierE/</item>
+        <item key="pop">P</item>
+        <item key="quota">P0</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Broadband mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Broadband account</item>
+        <item key="tier">E</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:sub:core:g">
+       <hashref memory_address="0x8e73788">
+        <item key="account">Sub</item>
+        <item key="path">/partners/bt/uk/tierG/</item>
+        <item key="pop">P</item>
+        <item key="quota">P0</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Mail account</item>
+        <item key="tier">G</item>
+       </hashref>
+      </item>
+      <item key="uk:plus:bt:sub:core:h">
+       <hashref memory_address="0x8e757d8">
+        <item key="account">Sub</item>
+        <item key="path">/partners/bt/uk/tierH/</item>
+        <item key="pop">P</item>
+        <item key="quota">P0</item>
+        <item key="subject-tx-confirm">Your BT Yahoo! Mailbox</item>
+        <item key="subject-tx-error">Email Transfer Error</item>
+        <item key="subject-tx-start">Your new BT Yahoo! Mail account</item>
+        <item key="tier">H</item>
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="cn_partner">
+   <hashref memory_address="0x8e4bfb4">
+   </hashref>
+  </item>
+  <item key="cti">
+   <hashref memory_address="0x8e528f4">
+    <item key="path">/partners/cti/</item>
+    <item key="subject">Yahoo!</item>
+   </hashref>
+  </item>
+  <item key="free">
+   <hashref memory_address="0x8e52aec">
+    <item key="SRV-header">allow=images;cg_sih=16;cg_sih_inv=16;cg_siu=http://mail.yimg.com/a/i/us/pim/ybang_16x16_1.gif;cg_siu_inv=http://mail.yimg.com/a/i/us/pim/ybang_16x16_dark_1.gif;cg_siw=16;cg_siw_inv=16;hih=16;hiu=http://mail.yimg.com/a/i/us/pim/ybang_16x16_1.gif;hiw=16;livewords=false;reportspam=generic;sih=16;</item>
+    <item key="TIP-header">66.218.69.16</item>
+    <item key="bypass-name-check">1</item>
+    <item key="domain">
+     <arrayref memory_address="0x8e52a44">
+      <item key="0">y7mail.com</item>
+      <item key="1">helloyahoo.com</item>
+      <item key="2">rocketmail.com</item>
+      <item key="3">ymail.com</item>
+      <item key="4">kimo.com</item>
+      <item key="5">maktoob.com</item>
+      <item key="6">yahoo.cn</item>
+     </arrayref>
+    </item>
+    <item key="path">/partners/free/%s/</item>
+    <item key="sender">Yahoo! Member Services</item>
+    <item key="sender2">Yahoo! Member Services</item>
+    <item key="subject">Get started now with Yahoo! Mail</item>
+    <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+    <item key="subject-pop-error">Email Transfer Error</item>
+    <item key="subject-pop-start">Confirmation and Information</item>
+    <item key="subject2">Transferring your email is a Snap</item>
+    <item key="type">
+     <hashref memory_address="0x8e52ac8">
+      <item key="temp">
+       <hashref memory_address="0x8e52ab0">
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="jobline">
+   <hashref memory_address="0x8e52954">
+    <item key="path">/partners/jobline/%s/</item>
+    <item key="subject">Yahoo!</item>
+   </hashref>
+  </item>
+  <item key="kimo">
+   <hashref memory_address="0x8e52924">
+    <item key="path">/partners/kimo/</item>
+    <item key="subject">Yahoo!</item>
+   </hashref>
+  </item>
+  <item key="ligans">
+   <hashref memory_address="0x8e52984">
+    <item key="path">/partners/ligans/</item>
+    <item key="subject">Welcome to Yahoo!igans</item>
+   </hashref>
+  </item>
+  <item key="mreg">
+   <hashref memory_address="0x8e529d8">
+    <item key="omitwelcomemessage">1</item>
+   </hashref>
+  </item>
+  <item key="nlab">
+   <hashref memory_address="0x8e52894">
+    <item key="path">/partners/nlab/</item>
+    <item key="subject">Yahoo!</item>
+   </hashref>
+  </item>
+  <item key="partner">
+   <hashref memory_address="0x8e529fc">
+   </hashref>
+  </item>
+  <item key="rogers-acs">
+   <hashref memory_address="0x8e77df8">
+    <item key="TIP-header">66.218.69.16</item>
+    <item key="bypass-name-check">1</item>
+    <item key="cf_subject">Bienvenue à Rogers Yahoo!</item>
+    <item key="domain">
+     <arrayref memory_address="0x8e759e8">
+      <item key="0">yahoo.com</item>
+      <item key="1">rogers.com</item>
+      <item key="2">e2e.rogers.com</item>
+      <item key="3">ort.rogers.com</item>
+      <item key="4">yoyo.com</item>
+      <item key="5">demobroadband.com</item>
+      <item key="6">uat.rogers.com</item>
+      <item key="7">uat.nl.rogers.com</item>
+      <item key="8">nl.rogers.com</item>
+      <item key="9">ort.nl.rogers.com</item>
+     </arrayref>
+    </item>
+    <item key="imap-server">
+     <hashref memory_address="0x8e75a78">
+     </hashref>
+    </item>
+    <item key="path">/partners/rogers-acs/%s/</item>
+    <item key="pop-server">
+     <hashref memory_address="0x8e75a90">
+     </hashref>
+    </item>
+    <item key="quota">D</item>
+    <item key="sender">Rogers Yahoo! Member Services</item>
+    <item key="sender2">Rogers Yahoo! Member Services</item>
+    <item key="subject">Welcome! Get started with your Rogers Yahoo! service</item>
+    <item key="subject-tx-confirm">Email Transfer Confirmation</item>
+    <item key="subject-tx-error">Email Transfer Error</item>
+    <item key="subject-tx-start">Confirmation and Information</item>
+    <item key="subject2">Welcome to Rogers Yahoo!</item>
+    <item key="type">
+     <hashref memory_address="0x8e77d74">
+      <item key="ca:plus:rog:pri:core:hi">
+       <hashref memory_address="0x8e75af0">
+        <item key="account">Master</item>
+        <item key="quota">D</item>
+        <item key="tier">hi</item>
+        <item key="welcomefile">welcomeYahoo_hi.html</item>
+       </hashref>
+      </item>
+      <item key="ca:plus:rog:pri:core:li">
+       <hashref memory_address="0x8e75b38">
+        <item key="account">Master</item>
+        <item key="quota">D</item>
+        <item key="tier">li</item>
+        <item key="welcomefile">welcomeYahoo_li_ul.html</item>
+       </hashref>
+      </item>
+      <item key="ca:plus:rog:pri:core:mu">
+       <hashref memory_address="0x8e77c0c">
+        <item key="account">Master</item>
+        <item key="quota">D</item>
+        <item key="tier">mu</item>
+        <item key="welcomefile">welcomeYahoo_hi.html</item>
+       </hashref>
+      </item>
+      <item key="ca:plus:rog:pri:core:ul">
+       <hashref memory_address="0x8e75b80">
+        <item key="account">Master</item>
+        <item key="quota">D</item>
+        <item key="tier">ul</item>
+        <item key="welcomefile">welcomeYahoo_li_ul.html</item>
+       </hashref>
+      </item>
+      <item key="ca:plus:rog:sub:core:hi">
+       <hashref memory_address="0x8e77c54">
+        <item key="account">Sub</item>
+        <item key="quota">D</item>
+        <item key="tier">hi</item>
+        <item key="welcomefile">welcomeYahoo_hi.html</item>
+       </hashref>
+      </item>
+      <item key="ca:plus:rog:sub:core:li">
+       <hashref memory_address="0x8e77c9c">
+        <item key="account">Sub</item>
+        <item key="quota">D</item>
+        <item key="tier">li</item>
+        <item key="welcomefile">welcomeYahoo_li_ul.html</item>
+       </hashref>
+      </item>
+      <item key="ca:plus:rog:sub:core:mu">
+       <hashref memory_address="0x8e77d2c">
+        <item key="account">Sub</item>
+        <item key="quota">D</item>
+        <item key="tier">mu</item>
+        <item key="welcomefile">welcomeYahoo_hi.html</item>
+       </hashref>
+      </item>
+      <item key="ca:plus:rog:sub:core:ul">
+       <hashref memory_address="0x8e77ce4">
+        <item key="account">Sub</item>
+        <item key="quota">D</item>
+        <item key="tier">ul</item>
+        <item key="welcomefile">welcomeYahoo_li_ul.html</item>
+       </hashref>
+      </item>
+      <item key="temp">
+       <hashref memory_address="0x8e75aa8">
+        <item key="account">temp</item>
+        <item key="quota">D</item>
+        <item key="tier">temp</item>
+        <item key="welcomefile">welcomeYahoo_hi.html</item>
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="sbc">
+   <hashref memory_address="0x8e712f4">
+    <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/a/di/direct/y_16.gif;siw=16;sih=16;allow=all</item>
+    <item key="TIP-header">66.218.69.16</item>
+    <item key="additionalWelcomeMessage">1</item>
+    <item key="bypass-name-check">1</item>
+    <item key="domain">
+     <arrayref memory_address="0x8e52ba0">
+      <item key="0">sbcglobal.net</item>
+      <item key="1">snet.net</item>
+      <item key="2">wans.net</item>
+      <item key="3">flash.net</item>
+      <item key="4">ameritech.net</item>
+      <item key="5">nvbell.net</item>
+      <item key="6">pacbell.net</item>
+      <item key="7">prodigy.net</item>
+      <item key="8">swbell.net</item>
+      <item key="9">yoyo.com</item>
+      <item key="10">demobroadband.com</item>
+      <item key="11">att.net</item>
+      <item key="12">bellsouth.net</item>
+     </arrayref>
+    </item>
+    <item key="farms">
+     <arrayref memory_address="0x8e52d08">
+      <item key="0">800</item>
+      <item key="1">801</item>
+      <item key="2">802</item>
+      <item key="3">803</item>
+      <item key="4">804</item>
+      <item key="5">92</item>
+      <item key="6">4</item>
+     </arrayref>
+    </item>
+    <item key="omitwelcomemessage">1</item>
+    <item key="path">/partners/sbc/%s/</item>
+    <item key="pop-server">
+     <hashref memory_address="0x8e52c54">
+      <item key="ameritech.net">pop.ameritech.net</item>
+      <item key="att.net">pop.att.yahoo.com</item>
+      <item key="bellsouth.net">207.115.9.90</item>
+      <item key="demobroadband.com">pop.demobroadband.com</item>
+      <item key="flash.net">pop.yahoo.flash.net</item>
+      <item key="nvbell.net">postoffice.nvbell.net</item>
+      <item key="pacbell.net">postoffice.pacbell.net</item>
+      <item key="prodigy.net">pop.yahoo.prodigy.net</item>
+      <item key="sbcglobal.net">pop.yahoo.sbcglobal.prodigy.net</item>
+      <item key="snet.net">pop.snet.net</item>
+      <item key="swbell.net">postoffice.swbell.net</item>
+      <item key="wans.net">pop.yahoo.wans.net</item>
+      <item key="yoyo.com">pop.yoyo.com</item>
+     </hashref>
+    </item>
+    <item key="quota">S2</item>
+    <item key="sender">AT&amp;T and Yahoo!</item>
+    <item key="sender2">AT&amp;T and Yahoo!</item>
+    <item key="subject">Welcome! Get started with AT&amp;T, powered by Yahoo!</item>
+    <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+    <item key="subject-pop-error">Email Transfer Error</item>
+    <item key="subject-pop-start">Confirmation and Information</item>
+    <item key="subject2">Transferring your email is a Snap</item>
+    <item key="type">
+     <hashref memory_address="0x8e6e808">
+      <item key="temp">
+       <hashref memory_address="0x8e52d74">
+        <item key="account">temp</item>
+        <item key="connection">temp</item>
+        <item key="quota">D</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:pri:cancel">
+       <hashref memory_address="0x8e6c27c">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Master</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:pri:core">
+       <hashref memory_address="0x8e52db0">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Master</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:pri:pby">
+       <hashref memory_address="0x8e52e1c">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Master</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:pri:pby_bls">
+       <hashref memory_address="0x8e6c0cc">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Master</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:sub:cancel">
+       <hashref memory_address="0x8e6c2e8">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Sub</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:sub:core">
+       <hashref memory_address="0x8e6c138">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Sub</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:sub:pby">
+       <hashref memory_address="0x8e6c1a4">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Sub</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dial:sub:pby_bls">
+       <hashref memory_address="0x8e6c210">
+        <item key="SRV-header">sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Sub</item>
+        <item key="connection">Dial</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:pri:cancel">
+       <hashref memory_address="0x8e6e5f8">
+        <item key="account">Master</item>
+        <item key="connection">DSL</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:pri:core">
+       <hashref memory_address="0x8e6c354">
+        <item key="account">Master</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:pri:pby">
+       <hashref memory_address="0x8e6c3c0">
+        <item key="account">Master</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:pri:pby_bls">
+       <hashref memory_address="0x8e6c42c">
+        <item key="account">Master</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:sub:cancel">
+       <hashref memory_address="0x8e6e658">
+        <item key="account">Sub</item>
+        <item key="connection">DSL</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:sub:core">
+       <hashref memory_address="0x8e6e4b4">
+        <item key="account">Sub</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:sub:pby">
+       <hashref memory_address="0x8e6e520">
+        <item key="account">Sub</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:dsl:sub:pby_bls">
+       <hashref memory_address="0x8e6e58c">
+        <item key="account">Sub</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:pri:base">
+       <hashref memory_address="0x8e6e6b8">
+        <item key="account">Master</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S2</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:pri:lite">
+       <hashref memory_address="0x8e6e790">
+        <item key="account">Master</item>
+        <item key="attach">D</item>
+        <item key="connection">PLite</item>
+        <item key="fwd">D</item>
+        <item key="msgsize">D</item>
+        <item key="pim-color">17</item>
+        <item key="pop">D</item>
+        <item key="quota">D</item>
+       </hashref>
+      </item>
+      <item key="us:plus:sbc:sub:base">
+       <hashref memory_address="0x8e6e724">
+        <item key="account">Sub</item>
+        <item key="connection">DSL</item>
+        <item key="pim-color">17</item>
+        <item key="quota">S1</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="seek">
+   <hashref memory_address="0x8e528c4">
+    <item key="path">/partners/seek/</item>
+    <item key="subject">Yahoo!</item>
+   </hashref>
+  </item>
+  <item key="temp">
+   <hashref memory_address="0x8e52a2c">
+   </hashref>
+  </item>
+  <item key="vtech">
+   <hashref memory_address="0x8e529b4">
+    <item key="omitwelcomemessage">1</item>
+   </hashref>
+  </item>
+  <item key="vz-acs">
+   <hashref memory_address="0x8e398a8">
+    <item key="SRV-header">vz=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/b6/verizon/vz_icon.gif;siw=16;sih=16;allow=all</item>
+    <item key="TIP-header">66.218.69.16</item>
+    <item key="additionalWelcomeMessage">1</item>
+    <item key="bypass-name-check">1</item>
+    <item key="domain">
+     <arrayref memory_address="0x8e77ed0">
+      <item key="0">verizon.net</item>
+      <item key="1">yoyo.com</item>
+      <item key="2">demobroadband.com</item>
+     </arrayref>
+    </item>
+    <item key="path">/partners/vz/us/DSL/</item>
+    <item key="sender">Verizon Yahoo! Member Services</item>
+    <item key="sender2">Verizon Yahoo! Member Services</item>
+    <item key="subject">Welcome! Get started with your Verizon Yahoo! service</item>
+    <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+    <item key="subject-pop-error">Email Transfer Error</item>
+    <item key="subject-pop-start">Confirmation and Information</item>
+    <item key="subject2">Transferring your email is a Snap</item>
+    <item key="timeoutfile">mig_notification.html</item>
+    <item key="timeoutpath">/partners/vz/us/</item>
+    <item key="timeoutsubject">Mail Migration Failure Notification</item>
+    <item key="type">
+     <hashref memory_address="0x8e3986c">
+      <item key="temp">
+       <hashref memory_address="0x8e77f0c">
+        <item key="account">temp</item>
+       </hashref>
+      </item>
+      <item key="us:plus:vz:pri:core">
+       <hashref memory_address="0x8e77f30">
+        <item key="SRV-header">vz=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/b6/verizon/vz_icon.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Master</item>
+        <item key="sender">Verizon Yahoo! Member Services</item>
+        <item key="sender2">Verizon Yahoo! Member Services</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+      <item key="us:plus:vz:sub:core">
+       <hashref memory_address="0x8e77f9c">
+        <item key="SRV-header">vz=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/b6/verizon/vz_icon.gif;siw=16;sih=16;allow=all</item>
+        <item key="account">Sub</item>
+        <item key="sender">Verizon Yahoo! Member Services</item>
+        <item key="sender2">Verizon Yahoo! Member Services</item>
+        <item key="subject-pop-confirm">Email Transfer Confirmation</item>
+        <item key="subject-pop-error">Email Transfer Error</item>
+        <item key="subject-pop-start">Confirmation and Information</item>
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="ym">
+   <hashref memory_address="0x8e52a14">
+   </hashref>
+  </item>
+ </hashref>
+</perldata>

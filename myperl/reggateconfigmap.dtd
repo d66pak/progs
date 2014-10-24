@@ -1,0 +1,6 @@
+<!-- reggateconfigmap.dtd -->
+
+<!ELEMENT config (param)+>
+<!ELEMENT param (#PCDATA|param)*>
+<!ATTLIST param
+ name CDATA #REQUIRED>

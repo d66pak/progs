@@ -1,0 +1,5 @@
+This package contains migration framework config server related configs
+(NOTE: This file must be updated to create new version of config server pkg)
+
+v0.0.1
+-[bug 5256967] Added version file to verify if config files must be replaced

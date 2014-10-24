@@ -1,0 +1,1160 @@
+# -*- perl -*-
+#
+# $Id: partnermap 345565 2012-03-05 10:23:30Z mgupta88 $
+# $Revision: 345565 $
+#
+$PARTNERMAP = {
+               'cn_partner' => {
+			       },
+
+	       'blu' => { 
+			 'path' => '/partners/blu/',
+			 'subject' => 'Welcome to Yahoo! Mail and Bluelight.com'
+			},
+	       'blue1' => {
+			   'path' => '/partners/blue1/',
+			   'subject' => 'Bienvenido a Correo Yahoo! y Bluelight.com'
+			  },
+	       'nlab' => {
+			  'path' => '/partners/nlab/',
+			  'subject' => 'Yahoo!'
+			 },
+	       'seek' => {
+			  'path' => '/partners/seek/',
+			  'subject' => 'Yahoo!'
+			 },
+	       'cti' => {
+			 'path' => '/partners/cti/',
+			 'subject' => 'Yahoo!'
+			},
+	       'kimo' => {
+			  'path' => '/partners/kimo/',
+			  'subject' => 'Yahoo!'
+			 },
+	       'jobline' => {
+			     'path' => '/partners/jobline/%s/',
+			     'subject' => 'Yahoo!'
+			    },
+	       'ligans' => {
+			    'path' => '/partners/ligans/',
+			    'subject' => 'Welcome to Yahoo!igans'
+			   },
+	       'vtech' => {
+			   'omitwelcomemessage' => 1
+			  },
+               'mreg' => {
+                           'omitwelcomemessage' => 1 
+                         },
+
+	        # Adding following types. They should NOT go to supernova scripts.
+
+		'partner' => {
+			     },
+
+		'ym' => {
+			},
+
+		'temp' => {
+			  },
+
+                   
+        # Free account access configuration:
+        'free' => {
+             # [Optional] Bypass name check?
+             'bypass-name-check' => 1,
+             # [Required] Default welcome message path:
+             'path' => '/partners/free/%s/',
+             'sender' => 'Yahoo! Member Services',
+             'sender2' => 'Yahoo! Member Services',
+             'subject' => 'Get started now with Yahoo! Mail',
+             'subject2' => 'Transferring your email is a Snap',
+             'subject-pop-start' => 'Confirmation and Information',
+             'subject-pop-confirm' => 'Email Transfer Confirmation',
+             'subject-pop-error' => 'Email Transfer Error',
+
+             # [Required] NO welcome message during reg,
+             #            inject it during link:
+             #'omitwelcomemessage' => 0,
+             #'additionalWelcomeMessage' => 0,
+
+             # For X-RocketTIP header:
+             'TIP-header' => '66.218.69.16',
+
+             # For X-RocketSRV header:
+             'SRV-header' => 'allow=images;cg_sih=16;cg_sih_inv=16;cg_siu=http://mail.yimg.com/a/i/us/pim/ybang_16x16_1.gif;cg_siu_inv=http://mail.yimg.com/a/i/us/pim/ybang_16x16_dark_1.gif;cg_siw=16;cg_siw_inv=16;hih=16;hiu=http://mail.yimg.com/a/i/us/pim/ybang_16x16_1.gif;hiw=16;livewords=false;reportspam=generic;sih=16;',
+
+             # [Required] Free access farms: Colon separated list
+             #'farms' => '215:215:129:126',
+
+             'domain' => [
+                                'y7mail.com',
+                                'helloyahoo.com',
+                                'rocketmail.com',
+                                'ymail.com',
+                                'kimo.com',
+                                'maktoob.com',
+                                'yahoo.cn',
+                        ],
+
+             'type' =>   {
+                                'temp' => { },
+                         },
+
+        },
+
+	# SBC access configuration:
+	'sbc' => {
+             # [Optional] Bypass name check?
+             'bypass-name-check' => 1,
+             # [Required] Default welcome message path:
+	     'path' => '/partners/sbc/%s/',
+
+	     'sender' => 'AT&T and Yahoo!',
+	     'sender2' => 'AT&T and Yahoo!',
+	     # 'subject' => 'Read this first. Three simple steps to get you started',
+	     'subject' => 'Welcome! Get started with AT&T, powered by Yahoo!',
+	     'subject2' => 'Transferring your email is a Snap',	
+	     'subject-pop-start' => 'Confirmation and Information',	
+             'subject-pop-confirm' => 'Email Transfer Confirmation',
+             'subject-pop-error' => 'Email Transfer Error',
+
+             # [Required] NO welcome message during reg,
+	     #            inject it during link:
+             'omitwelcomemessage' => 1,
+             'additionalWelcomeMessage' => 1,
+
+             # [Optional] Highlighting messages:
+             # For X-RocketTIP header:
+             'TIP-header' => '66.218.69.16',
+             # For X-RocketSRV header:
+             'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/a/di/direct/y_16.gif;siw=16;sih=16;allow=all',
+
+	     # [Required] Default email domain for all account types:
+	     'domain' => [
+			  'sbcglobal.net',
+			  'snet.net',
+			  'wans.net',
+			  'flash.net',
+			  'ameritech.net',
+			  'nvbell.net',
+			  'pacbell.net',
+			  'prodigy.net',
+			  'swbell.net',
+			  'yoyo.com',
+			  'demobroadband.com',
+                          'att.net',
+			  'bellsouth.net',
+			 ],
+
+	     'pop-server' => {
+		#'sbcglobal.net' => 'pop.sbcglobal.net',
+		'sbcglobal.net' => 'pop.yahoo.sbcglobal.prodigy.net',
+		'snet.net' => 'pop.snet.net',	
+		#'wans.net' => 'pop.wans.net',
+		'wans.net' => 'pop.yahoo.wans.net',
+		#'flash.net' => 'pop.flash.net',
+		'flash.net' => 'pop.yahoo.flash.net',
+		'ameritech.net' => 'pop.ameritech.net',
+		'nvbell.net' => 'postoffice.nvbell.net',
+		'pacbell.net' => 'postoffice.pacbell.net',
+		#'prodigy.net' => 'pop.prodigy.net',
+		'prodigy.net' => 'pop.yahoo.prodigy.net',
+		'swbell.net' => 'postoffice.swbell.net',
+		'yoyo.com' => 'pop.yoyo.com',
+		'demobroadband.com' => 'pop.demobroadband.com',
+                'att.net' => 'pop.att.yahoo.com',
+		'bellsouth.net' => '207.115.9.90',
+		},
+
+             # [Required] SBC access farms:
+	     # 4 is the test farm.
+	     # Use 92 for testing while waiting for the first SBC farm.
+	     'farms' => [800, 801, 802, 803, 804, 92, 4],
+
+	     # [Required] Default quota limit for all account types:
+	     'quota' => 'S2',  # 25MB
+
+             # [Optional] Inbound message size limit:
+             #'msgsize' => 'SBC', # 'D' for default.
+
+             # [Optional] Attachment limit:
+             #'attach' => 'SBC', # 'D' for default.
+
+             # [Optional] POP limit:
+             #'pop' => 'SBC', # 'D' for default.
+
+             # [Optional] Forwarding limit:
+             #'fwd' => 'SBC', # 'D' for default.
+
+	     # [Required] Account types:
+	     'type' => {
+		  # Each account type should define email domain and quota.
+		  # Default to above if absent.
+
+		  # Vacuous temp account:
+		  'temp' => {
+			# [Required] Stat categories:
+			'connection' => 'temp',
+			'account' => 'temp',
+
+			# [Required] Quota limit:
+			'quota' => 'D',
+
+			# [Optional] Attachment limit:
+			#'attach' => 'D',
+
+			# [Optional] Inbound message size limit:
+			#'msgsize' => 'D',
+		        },
+
+                  # Master Dial account:
+		  'us:plus:sbc:dial:pri:core' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Master',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S2',   # 25MB
+
+                        # [Optional] Email domain; use above if absent:
+			# 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+
+                  # Master Dial account for users provisioned with the new pby-based PSI packages and registering as of 04/01/08:
+		  'us:plus:sbc:dial:pri:pby' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Master',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S2',   # 25MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+
+		  'us:plus:sbc:dial:pri:pby_bls' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Master',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S2',   # 25MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+ 
+
+                  # Secondary Dial account:
+		  'us:plus:sbc:dial:sub:core' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Sub',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S1',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+			# 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+
+                   # Secondary Dial account for users provisioned with the new pby-based PSI packages and registering as of 04/01/08:
+		  'us:plus:sbc:dial:sub:pby' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Sub',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S1',   # 10MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+
+		  'us:plus:sbc:dial:sub:pby_bls' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Sub',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S1',   # 10MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+
+
+                  # Repurchased Dial master account:
+		  'us:plus:sbc:dial:pri:cancel' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Master',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S2',   # 25MB
+
+                        # [Optional] Email domain; use above if absent:
+			# 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+
+                  # Repurchased Dial sub account:
+		  'us:plus:sbc:dial:sub:cancel' => {
+			# [Required] Stat categories:
+			'connection' => 'Dial',
+			'account' => 'Sub',
+
+                        # [Required] Quota limit; use above if absent:
+			'quota' => 'S1',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+			# 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'sbc=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+		  	},
+
+                  # Master DSL account:
+		  'us:plus:sbc:dsl:pri:core' => {
+			'connection' => 'DSL',
+			'account' => 'Master',
+
+			'quota' => 'S2',   # 25MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+			'pim-color' => 17, # PIM default color
+		  	},
+
+                   # Master DSL account for users provisioned with the new pby-based PSI packages and registering as of 04/01/08:
+		  'us:plus:sbc:dsl:pri:pby' => {
+			'connection' => 'DSL',
+			'account' => 'Master',
+
+			'quota' => 'S2',   # 25MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+			'pim-color' => 17, # PIM default color
+		  	},
+
+		  'us:plus:sbc:dsl:pri:pby_bls' => {
+			'connection' => 'DSL',
+			'account' => 'Master',
+
+			'quota' => 'S2',   # 25MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+			'pim-color' => 17, # PIM default color
+		  	},
+
+
+                 # Secondary DSL account:
+		  'us:plus:sbc:dsl:sub:core' => {
+			'connection' => 'DSL',
+			'account' => 'Sub',
+
+			'quota' => 'S1',   # 10MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+			'pim-color' => 17, # PIM default color
+		  	},
+
+                  # Secondary DSL account for users provisioned with the new pby-based PSI packages and registering as of 04/01/08:
+		  'us:plus:sbc:dsl:sub:pby' => {
+			'connection' => 'DSL',
+			'account' => 'Sub',
+
+			'quota' => 'S1',   # 10MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+			'pim-color' => 17, # PIM default color
+		  	},
+
+		  'us:plus:sbc:dsl:sub:pby_bls' => {
+			'connection' => 'DSL',
+			'account' => 'Sub',
+
+			'quota' => 'S1',   # 10MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+
+			'pim-color' => 17, # PIM default color
+		  	},
+
+
+                 # Repurchased master DSL account:
+		  'us:plus:sbc:dsl:pri:cancel' => {
+			'connection' => 'DSL',
+			'account' => 'Master',
+
+			'quota' => 'S2',   # 25MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+		  	},
+
+                  # Repurchased DSL sub account:
+		  'us:plus:sbc:dsl:sub:cancel' => {
+			'connection' => 'DSL',
+			'account' => 'Sub',
+
+			'quota' => 'S1',   # 10MB
+
+	                'subject-pop-start' => 'Confirmation and Information',
+	                'subject-pop-confirm' => 'Email Transfer Confirmation',
+	                'subject-pop-error' => 'Email Transfer Error',
+		  	},
+		  # Open Portal
+                  'us:plus:sbc:pri:base' => {
+                        'connection' => 'DSL',
+                        'account' => 'Master',
+
+                        'quota' => 'S2',   # 25MB
+
+                        'subject-pop-start' => 'Confirmation and Information',
+                        'subject-pop-confirm' => 'Email Transfer Confirmation',
+                        'subject-pop-error' => 'Email Transfer Error',
+
+                        'pim-color' => 17, # PIM default color
+                        },
+
+                  'us:plus:sbc:sub:base' => {
+                        'connection' => 'DSL',
+                        'account' => 'Sub',
+
+                        'quota' => 'S1',   # 10MB
+
+                        'subject-pop-start' => 'Confirmation and Information',
+                        'subject-pop-confirm' => 'Email Transfer Confirmation',
+                        'subject-pop-error' => 'Email Transfer Error',
+
+                        'pim-color' => 17, # PIM default color
+                        },
+
+                  'us:plus:sbc:pri:lite' => {
+                        'connection' => 'PLite',
+
+                        'account' => 'Master',
+
+	     		'quota' => 'D',  
+
+             		'msgsize' => 'D', 
+
+             		'attach' => 'D', 
+
+             		'pop' => 'D', 
+
+             		'fwd' => 'D', 
+
+                        'pim-color' => 17, # PIM default color
+
+                        },
+	
+     	  	},
+	     },
+
+          'bt-1' => {
+             # [Optional] Bypass name check?
+             'bypass-name-check' => 1,
+             # [Required] Default welcome message path:
+             'path' => '/partners/bt/uk/',
+
+             'sender' => 'BT Yahoo! Member Services',
+             'sender2' => 'BT Yahoo! Member Services',
+             'subject' => 'Welcome to BT Yahoo!',
+             'subject2' => 'Welcome to BT Yahoo!',
+             'subject-tx-start' => 'Confirmation and Information',
+             'subject-tx-confirm' => 'Email Transfer Confirmation',
+             'subject-tx-error' => 'Email Transfer Error',
+
+             # [Required] NO welcome message during reg,
+             #            inject it during link:
+             'omitwelcomemessage' => 1,
+             #'additionalWelcomeMessage' => 1,
+
+             # [Optional] Highlighting messages:
+             # For X-RocketTIP header:
+             'TIP-header' => '66.218.69.16',
+             # For X-RocketSRV header:
+             #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/a/di/direct/y_16.gif;siw=16;sih=16;allow=all',
+             # [Required] Default email domain for all account types:
+             'domain' => [
+                          'yahoo.com',
+                          'yoyo.com',
+                          'demobroadband.com',
+                          'btinternet.com',
+                          'btopenworld.com',
+                         ],
+
+             'imap-server' => {
+                'yahoo.com' => 'martini.corp',
+                 #'btopenworld.com' => '195.99.218.133',   
+                 #'btinternet.com' => '195.99.218.133', 
+                 'btopenworld.com' => '194.73.73.163',   
+                 'btinternet.com' => '194.73.73.163',
+                },
+
+             'pop-server' => {
+                },
+             # [Required] BT access farms:
+             # New format to specify farm numbers
+             # '<farm1>:<farm2>:<farm3>'
+             #'farms' => '253',
+             # 4 is the test farm.
+             # Use 92 for testing while waiting for the first BT farm.
+             #'farms' => [800, 801, 802, 803, 804, 92, 4],
+
+             # [Required] Default quota limit for all account types:
+             'quota' => 'S2',  # 25MB
+
+             # [Optional] Inbound message size limit:
+             #'msgsize' => 'BT', # 'D' for default.
+
+             # [Optional] Attachment limit:
+             #'attach' => 'BT', # 'D' for default.
+
+             # [Optional] POP limit:
+             #'pop' => 'BT', # 'D' for default.
+
+             # [Optional] Forwarding limit:
+             #'fwd' => 'BT', # 'D' for default.
+
+             # [Required] Account types:
+             'type' => {
+                  # Each account type should define email domain and quota.
+                  # Default to above if absent.
+
+                  # Vacuous temp account:
+                  'temp' => {
+                        # [Required] Stat categories:
+                        'tier' => 'temp',
+                        'account' => 'temp',
+
+                        # [Required] Quota limit:
+                        'quota' => 'D',
+
+                        # [Optional] Attachment limit:
+                        #'attach' => 'D',
+
+                        # [Optional] Inbound message size limit:
+                        #'msgsize' => 'D',
+                        },
+
+                  # Master Tier A account:
+                  'uk:plus:bt:pri:core:a' => {
+                        # [Required] Stat categories:
+                        'tier' => 'A',
+                        'account' => 'Master',
+                        'path' => '/partners/bt/uk/tierA/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'D',   # 6MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier A Member Services',
+                        #'sender2' => 'BT Yahoo! Tier A Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Mail account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Master Tier B account:
+                  'uk:plus:bt:pri:core:b' => {
+                        # [Required] Stat categories:
+                        'tier' => 'B',
+                        'account' => 'Master',
+                        'path' => '/partners/bt/uk/tierB/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P2',   # 50MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier B Member Services',
+                        #'sender2' => 'BT Yahoo! Tier B Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Mail account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Secondary Tier B account:
+                  'uk:plus:bt:sub:core:b' => {
+                        # [Required] Stat categories:
+                        'tier' => 'B',
+                        'account' => 'Sub',
+                        'path' => '/partners/bt/uk/tierB/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P0',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier B Member Services',
+                        #'sender2' => 'BT Yahoo! Tier B Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Mail account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+ 
+
+                  # Master Tier C account:
+                  'uk:plus:bt:pri:core:c' => {
+                        # [Required] Stat categories:
+                        'tier' => 'C',
+                        'account' => 'Master',
+                        'path' => '/partners/bt/uk/tierC/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P2',   # 50MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier C Member Services',
+                        #'sender2' => 'BT Yahoo! Tier C Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Internet account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Internet mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Secondary Tier C account:
+                  'uk:plus:bt:sub:core:c' => {
+                        # [Required] Stat categories:
+                        'tier' => 'C',
+                        'account' => 'Sub',
+                        'path' => '/partners/bt/uk/tierC/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P0',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier C Member Services',
+                        #'sender2' => 'BT Yahoo! Tier C Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Internet account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Internet mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+
+                  # Master Tier D account:
+                  'uk:plus:bt:pri:core:d' => {
+                        # [Required] Stat categories:
+                        'tier' => 'D',
+                        'account' => 'Master',
+                        'path' => '/partners/bt/uk/tierD/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P2',   # 50MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier D Member Services',
+                        #'sender2' => 'BT Yahoo! Tier D Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Internet account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Internet mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Secondary Tier D account:
+                  'uk:plus:bt:sub:core:d' => {
+                        # [Required] Stat categories:
+                        'tier' => 'D',
+                        'account' => 'Sub',
+                        'path' => '/partners/bt/uk/tierD/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P0',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier D Member Services',
+                        #'sender2' => 'BT Yahoo! Tier D Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Internet account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Internet mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Master Tier E account:
+                  'uk:plus:bt:pri:core:e' => {
+                        # [Required] Stat categories:
+                        'tier' => 'E',
+                        'account' => 'Master',
+                        'path' => '/partners/bt/uk/tierE/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P2',   # 50MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier E Member Services',
+                        #'sender2' => 'BT Yahoo! Tier E Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Broadband account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Broadband mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Secondary Tier E account:
+                  'uk:plus:bt:sub:core:e' => {
+                        # [Required] Stat categories:
+                        'tier' => 'E',
+                        'account' => 'Sub',
+                        'path' => '/partners/bt/uk/tierE/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P0',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier E Member Services',
+                        #'sender2' => 'BT Yahoo! Tier E Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Broadband account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Broadband mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+                  # Master Tier G account:
+                  'uk:plus:bt:pri:core:g' => {
+                        # [Required] Stat categories:
+                        'tier' => 'G',
+                        'account' => 'Master',
+                        'path' => '/partners/bt/uk/tierG/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P2',   # 50MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier G Member Services',
+                        #'sender2' => 'BT Yahoo! Tier G Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Mail account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Secondary Tier G account:
+                  'uk:plus:bt:sub:core:g' => {
+                        # [Required] Stat categories:
+                        'tier' => 'G',
+                        'account' => 'Sub',
+                        'path' => '/partners/bt/uk/tierG/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P0',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier G Member Services',
+                        #'sender2' => 'BT Yahoo! Tier G Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Mail account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+ 
+                  # Master Tier H account:
+                  'uk:plus:bt:pri:core:h' => {
+                        # [Required] Stat categories:
+                        'tier' => 'H',
+                        'account' => 'Master',
+                        'path' => '/partners/bt/uk/tierH/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P2',   # 50MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier H Member Services',
+                        #'sender2' => 'BT Yahoo! Tier H Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Mail account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  # Secondary Tier H account:
+                  'uk:plus:bt:sub:core:h' => {
+                        # [Required] Stat categories:
+                        'tier' => 'H',
+                        'account' => 'Sub',
+                        'path' => '/partners/bt/uk/tierH/',
+
+                        # [Required] Quota limit; use above if absent:
+                        'quota' => 'P0',   # 10MB
+
+                        # [Optional] Email domain; use above if absent:
+                        # 'domain' =>
+
+                        'pop' => 'P', # Enabled, use 'D' to disable
+
+                        # No def. for 'msgsize' and 'attach'; use above
+                        # values.
+
+                        #'sender' => 'BT Yahoo! Tier H Member Services',
+                        #'sender2' => 'BT Yahoo! Tier H Member Services',
+                        'subject-tx-start' => 'Your new BT Yahoo! Mail account',
+                        'subject-tx-confirm' => 'Your BT Yahoo! Mailbox',
+                        'subject-tx-error' => 'Email Transfer Error',
+
+                        #'SRV-header' => 'bt=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/misc/boopee16.gif;siw=16;sih=16;allow=all',
+                        },
+ 
+                  },
+             },
+
+          'rogers-acs' => {
+             # [Optional] Bypass name check?
+             'bypass-name-check' => 1,
+
+             'path' => '/partners/rogers-acs/%s/',
+             'sender' => 'Rogers Yahoo! Member Services',
+             'sender2' => 'Rogers Yahoo! Member Services',
+             # 'subject' => 'Welcome to Rogers Yahoo!',
+ 	     'subject' => 'Welcome! Get started with your Rogers Yahoo! service',	
+	     'subject2' => 'Welcome to Rogers Yahoo!',
+	     'cf_subject' => 'Bienvenue à Rogers Yahoo!',	
+
+             'subject-tx-start' => 'Confirmation and Information',
+             'subject-tx-confirm' => 'Email Transfer Confirmation',
+             'subject-tx-error' => 'Email Transfer Error',
+
+             # [Required] NO welcome message during reg,
+             # New requirement - insert welcome message for Rogers ca/cf users 
+             # according to tiers
+             # 'omitwelcomemessage' => 1,
+
+             # [Optional] Highlighting messages:
+             # For X-RocketTIP header:
+             'TIP-header' => '66.218.69.16',
+
+             # For X-RocketSRV header:
+             #'SRV-header' => 'allow=images;cg_sih=16;cg_sih_inv=16;cg_siu=http://mail.yimg.com/a/i/us/pim/ybang_16x16_1.gif;cg_siu_inv=http://mail.yimg.com/a/i/us/pim/ybang_16x16_dark_1.gif;cg_siw=16;cg_siw_inv=16;hih=16;hiu=http://mail.yimg.com/a/i/us/pim/ybang_16x16_1.gif;hiw=16;livewords=false;reportspam=generic;sih=16;',
+
+             # [Required] Default email domain for all account types:
+             'domain' => [
+                          'yahoo.com',
+                          'rogers.com',
+			  'e2e.rogers.com',
+			  'ort.rogers.com',
+                          'yoyo.com',
+                          'demobroadband.com',
+                          'uat.rogers.com',
+                          'uat.nl.rogers.com',
+                          'nl.rogers.com',
+                          'ort.nl.rogers.com',
+                         ],
+
+             'imap-server' => {
+                },
+
+             'pop-server' => {
+                },
+
+             # [Required] Default quota limit for all account types:
+             'quota' => 'D',  # 25MB
+
+             # [Required] Account types:
+             'type' => {
+                  # Each account type should define email domain and quota.
+                  # Default to above if absent.
+
+                  # Vacuous temp account:
+                  'temp' => {
+                        # [Required] Stat categories:
+                        'tier' => 'temp',
+                        'account' => 'temp',
+
+                        # [Required] Quota limit:
+                        'quota' => 'D',
+
+                        # [Optional] Attachment limit:
+                        #'attach' => 'D',
+
+                        # [Optional] Inbound message size limit:
+                        #'msgsize' => 'D',
+
+		        'welcomefile' => 'welcomeYahoo_hi.html',
+        
+                	},
+
+                'ca:plus:rog:pri:core:hi' => {
+                                                'tier' => 'hi',
+                                                'quota' => 'D',
+                                                'account' => 'Master',
+                                                'welcomefile' => 'welcomeYahoo_hi.html',
+                                              },
+
+                 'ca:plus:rog:pri:core:li' => {
+                                                'tier' => 'li',
+                                                'quota' => 'D',
+                                                'account' => 'Master',
+                                                'welcomefile' => 'welcomeYahoo_li_ul.html',
+                                              },
+
+                 'ca:plus:rog:pri:core:ul' => {
+                                                'tier' => 'ul',
+                                                'quota' => 'D',
+                                                'account' => 'Master',
+                                                'welcomefile' => 'welcomeYahoo_li_ul.html',
+                                              },
+
+                 'ca:plus:rog:pri:core:mu' => { 	 
+	                                         'tier' => 'mu', 	 
+	                                         'quota' => 'D', 	 
+	                                         'account' => 'Master', 	 
+	                                         'welcomefile' => 'welcomeYahoo_hi.html', 	 
+	                                      }, 	 
+	  	 
+                 'ca:plus:rog:sub:core:hi' => {
+                                                'tier' => 'hi',
+                                                'quota' => 'D',
+                                                'account' => 'Sub',
+                                                'welcomefile' => 'welcomeYahoo_hi.html',
+                                              },
+                  'ca:plus:rog:sub:core:li' => {
+                                                'tier' => 'li',
+                                                'quota' => 'D',
+                                                'account' => 'Sub',
+                                                'welcomefile' => 'welcomeYahoo_li_ul.html',
+                                              },
+
+                 'ca:plus:rog:sub:core:ul' => {
+                                                'tier' => 'ul',
+                                                'quota' => 'D',
+                                                'account' => 'Sub',
+                                                'welcomefile' => 'welcomeYahoo_li_ul.html',
+
+                 },
+
+                 'ca:plus:rog:sub:core:mu' => { 	 
+	                                        'tier' => 'mu', 	 
+	                                        'quota' => 'D', 	 
+	                                        'account' => 'Sub', 	 
+	                                        'welcomefile' => 'welcomeYahoo_hi.html', 	 
+	                                      },
+ 
+               },
+             },
+
+'vz-acs' => {
+             # [Optional] Bypass name check?
+             'bypass-name-check' => 1,
+             # [Required] Default welcome message path:
+             'path' => '/partners/vz/us/DSL/',
+
+             'sender' => 'Verizon Yahoo! Member Services',
+             'sender2' => 'Verizon Yahoo! Member Services',
+             # 'subject' => 'Read this first. Three simple steps to get you started',
+             'subject' => 'Welcome! Get started with your Verizon Yahoo! service',
+             'subject2' => 'Transferring your email is a Snap', 
+             'subject-pop-start' => 'Confirmation and Information',     
+             'subject-pop-confirm' => 'Email Transfer Confirmation',
+             'subject-pop-error' => 'Email Transfer Error',
+
+             'timeoutpath' => '/partners/vz/us/',
+             'timeoutsubject' => 'Mail Migration Failure Notification',
+             'timeoutfile' => 'mig_notification.html',
+
+             # [Required] NO welcome message during reg,
+             #            inject it during link:
+             'additionalWelcomeMessage' => 1,
+
+             # [Optional] Highlighting messages:
+             # For X-RocketTIP header:
+             'TIP-header' => '66.218.69.16',
+             # For X-RocketSRV header:
+             'SRV-header' => 'vz=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/b6/verizon/vz_icon.gif;siw=16;sih=16;allow=all',
+
+             # [Required] Default email domain for all account types:
+             'domain' => [
+                          'verizon.net',
+                          'yoyo.com',
+                          'demobroadband.com',
+                         ],
+
+             # [Required] Account types:
+             'type' => {
+                  # Each account type should define email domain and quota.
+                  # Default to above if absent.
+
+                  # Vacuous temp account:
+                  'temp' => {
+                        'account' => 'temp',
+                        },
+
+                  # Master Dial account:
+                  'us:plus:vz:pri:core' => {
+                        'account' => 'Master',
+
+                        'sender' => 'Verizon Yahoo! Member Services',
+                        'sender2' => 'Verizon Yahoo! Member Services',
+                        'subject-pop-start' => 'Confirmation and Information',
+                        'subject-pop-confirm' => 'Email Transfer Confirmation',
+                        'subject-pop-error' => 'Email Transfer Error',
+
+                        'SRV-header' => 'vz=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/b6/verizon/vz_icon.gif;siw=16;sih=16;allow=all',
+                        },
+
+                  'us:plus:vz:sub:core' => {
+                        'account' => 'Sub',
+
+                        'sender' => 'Verizon Yahoo! Member Services',
+                        'sender2' => 'Verizon Yahoo! Member Services',
+                        'subject-pop-start' => 'Confirmation and Information',
+                        'subject-pop-confirm' => 'Email Transfer Confirmation',
+                        'subject-pop-error' => 'Email Transfer Error',
+                        'SRV-header' => 'vz=ffff99;siu=http://us.i1.yimg.com/us.yimg.com/i/us/plus/b6/verizon/vz_icon.gif;siw=16;sih=16;allow=all',
+
+                        },
+             },
+      },
+
+};
+

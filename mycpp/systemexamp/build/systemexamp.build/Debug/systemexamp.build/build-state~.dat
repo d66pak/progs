@@ -1,0 +1,59 @@
+Tsystemexamp
+v7
+r0
+t337331975.831118
+cCheck dependencies
+cCompileC build/systemexamp.build/Debug/systemexamp.build/Objects-normal/x86_64/main.o /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug/systemexamp normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug/systemexamp
+t1315639175
+s10600
+
+N/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/Objects-normal/x86_64/main.o
+t1315639175
+s67008
+
+N/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/Objects-normal/x86_64/systemexamp.LinkFileList
+c000000004E6B0F870000000000000080
+t1315639175
+s128
+
+N/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/main.cpp
+c000000004E6B0F27000000000000008F
+t1315639079
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337331975#337331975#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/systemexamp.build/Debug/systemexamp.build/Objects-normal/x86_64/main.o /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s337331975.102671
+e337331975.517867
+r1
+xCompileC
+xbuild/systemexamp.build/Debug/systemexamp.build/Objects-normal/x86_64/main.o
+x/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/main.cpp337331975#337331975#0(0"0(0#0#59"/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/main.cpp7809643567100341248#1495"    cd /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/systemexamp-generated-files.hmap -I/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/systemexamp-own-target-headers.hmap -I/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/systemexamp-all-target-headers.hmap -iquote /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/systemexamp-project-headers.hmap -F/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug -I/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug/include -I/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/DerivedSources/x86_64 -I/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/DerivedSources -c /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/main.cpp -o /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug/systemexamp normal x86_64
+s337331975.517956
+e337331975.831066
+r1
+xLd
+x/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug/systemexamp
+xnormal
+xx86_64
+lSLF07#2@79"Link /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug/systemexamp337331975#337331975#0(0"0(0#0#0"8607030272#574"    cd /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug -F/Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug -filelist /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/systemexamp.build/Debug/systemexamp.build/Objects-normal/x86_64/systemexamp.LinkFileList -mmacosx-version-min=10.6 -o /Users/dtelkar/Deepak/Yahoo/progs/ccpp/systemexamp/build/Debug/systemexamp0#
+
